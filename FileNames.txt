@@ -1,0 +1,509 @@
+フォルダー パスの一覧:  ボリューム Data
+ボリューム シリアル番号は A620-F071 です
+D:\GIT\HISTOLOGY
+│  FileName.bat
+│  FileNames.txt
+│  FileNames.xlsx
+│  
+├─Chap00_General
+│      1_FourBasicTypesOfTissue.txt
+│      
+├─Chap01_HistologyAndItsMethodsOfStudy
+│  │  Introduction.txt
+│  │  
+│  ├─1_PreparationOfTissuesForStudy
+│  │      0_Introduction.txt
+│  │      1_Fixation.txt
+│  │      2_EmbeddingAndSlice.txt
+│  │      3_Staining.txt
+│  │      
+│  ├─2_LightMicroscopy
+│  │      0_Introduction.txt
+│  │      1_BrightFieldMicroscope.txt
+│  │      2_FlurescenceMicroscope.txt
+│  │      3_PhaseContrastMicroscope.txt
+│  │      4_ConfocalMicroscope.txt
+│  │      5_PolarizingMicroscope.txt
+│  │      
+│  ├─3_ElectronMicroscopy
+│  │      0_Introduction.txt
+│  │      1_TransmissionElectronMicroscope.txt
+│  │      2_ScanningElectronMicroscope.txt
+│  │      
+│  ├─4_Autoradiography
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_CellAndTissueCulture
+│  │      0_Introduction.txt
+│  │      
+│  ├─6_EnzymeHistochemistry
+│  │      0_Introduction.txt
+│  │      
+│  ├─7_VisualizingSpecificMolecules
+│  │      0_Introduction.txt
+│  │      1_Immunohistochemistry.txt
+│  │      2_Hybridization.txt
+│  │      
+│  └─8_InterpretationOfStructuresInTissueSections
+│          0_Introduction.txt
+│          
+├─Chap02_TheCytoplasm
+│  │  Introduction.txt
+│  │  
+│  ├─1_CellDifferentiation
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_CytoplasmicOrganelles
+│  │  │  0_Introduction.txt
+│  │  │  2_Ribosome.txt
+│  │  │  3_EndoplasmicReticulum.txt
+│  │  │  4_GolgiApparatus.txt
+│  │  │  5_SecretoryGranule.txt
+│  │  │  6_Lysosome.txt
+│  │  │  7_Proteasome.txt
+│  │  │  8_Mitochondria.txt
+│  │  │  9_Perioxisome.txt
+│  │  │  
+│  │  └─1_Membrane
+│  │          0_Introduction.txt
+│  │          1_MembraneSpanningProteinAndMembraneTransport.txt
+│  │          2_VesicularTransport.txt
+│  │          3_ReceptionAndTransmissionOfSignal.txt
+│  │          
+│  ├─3_TheCytoskeleton
+│  │      0_Introduction.txt
+│  │      1_Microtubule.txt
+│  │      2_Microfilament.txt
+│  │      3_IntermediateFilament.txt
+│  │      
+│  └─4_Inclusions
+│          0_Introduction.txt
+│          
+├─Chap03_TheNucleus
+│  │  Introduction.txt
+│  │  
+│  ├─1_ComponentsOfTheNucleus
+│  │      0_Introduction.txt
+│  │      1_NuclearEnvelope.txt
+│  │      2_Chromatin.txt
+│  │      3_Nucleolus.txt
+│  │      
+│  ├─2_TheCellCycle
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_Mitosis
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_StemCellsAndTissueRenewal
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_Meiosis
+│  │      0_Introduction.txt
+│  │      
+│  └─6_Apoptosis
+│          0_Introduction.txt
+│          
+├─Chap04_EpithelialTissue
+│  │  Introduction.txt
+│  │  
+│  ├─1_CharacteristicFeaturesOfEpithelialCells
+│  │      0_Introduction.txt
+│  │      1_BasementMembrane.txt
+│  │      2_IntercellularAdhensionAndIntercellularJunction.txt
+│  │      
+│  ├─2_SpecializationsOfTheApicalCellSurface
+│  │      0_Introduction.txt
+│  │      1_MIcrovillus.txt
+│  │      2_Stereocilium.txt
+│  │      3_Cilium.txt
+│  │      
+│  ├─3_TypesOfEpithelia
+│  │      0_Introduction.txt
+│  │      1_CoveringEpithelium.txt
+│  │      2_SecretoryEpithelium.txt
+│  │      
+│  ├─4_TransportAcrossEpithelia
+│  │      0_Introduction.txt
+│  │      
+│  └─5_RenewalOfEpithelialCells
+│          0_Introduction.txt
+│          
+├─Chap05_ConnectiveTissue
+│  │  Introduction.txt
+│  │  
+│  ├─1_CellsOfConnectiveTissue
+│  │      0_Introduction.txt
+│  │      1_Fibroblast.txt
+│  │      2_Adipocyte.txt
+│  │      3_MacrophageAndMononulearPhagocyteSystem.txt
+│  │      4_MastCell.txt
+│  │      5_PlasmaCell.txt
+│  │      6_Leukocyte.txt
+│  │      
+│  ├─2_Fibers
+│  │      0_Introduction.txt
+│  │      1_Collagen.txt
+│  │      2_Reticular.txt
+│  │      3_Elastic.txt
+│  │      
+│  ├─3_GroundSubstance
+│  │      0_Introduction.txt
+│  │      
+│  └─4_TypesOfConnectiveCells
+│          0_Introduction.txt
+│          1_ConnectiveTissueProper.txt
+│          2_ReticularTissue.txt
+│          3_MucoidConnectiveTissue.txt
+│          
+├─Chap06_AdiposeTissue
+│  │  Introduction.txt
+│  │  
+│  ├─1_WhiteAdiposeTissue
+│  │      0_Introduction.txt
+│  │      1_StorageOfFatAndMetabolism.txt
+│  │      2_HistogenesisOfWhiteAdiposeTissue.txt
+│  │      
+│  └─2_BrownAdiposeTissue
+│          0_Introduction.txt
+│          1_FunctionsOfBrownAdiposeTissues.txt
+│          2_HistrogenesisOfBrownAdiposeTissues.txt
+│          
+├─Chap07_Cartilage
+│  │  Introduction.txt
+│  │  
+│  ├─1_HyalineCartilage
+│  │      0_Introduction.txt
+│  │      1_ExtraCellularMatrix.txt
+│  │      2_Chondrocyte.txt
+│  │      3_Perichondrium.txt
+│  │      
+│  ├─2_ElasticCartilage
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_Fibrocartilage
+│  │      0_Introduction.txt
+│  │      
+│  └─4_CartilageFormationGrowthAndRepair
+│          0_Introduction.txt
+│          
+├─Chap08_Bone
+│  │  Introduction.txt
+│  │  
+│  ├─1_BoneCells
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_BoneMatrix
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_PeriosteumAndEndosteum
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_TypesOfBone
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_Osteogenesis
+│  │      0_Introduction.txt
+│  │      
+│  ├─6_BoneGrowthRemodelingAndRepair
+│  │      0_Introduction.txt
+│  │      
+│  └─7_MetabolicRoleOfBone
+│          0_Introduction.txt
+│          
+├─Chap09_NerveTissueAndTheNervousSystem
+│  │  Introduction.txt
+│  │  
+│  ├─1_DevelopmentOfNerveTissue
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_Neurons
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_GlialCellsAndNeuronalActivity
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_CentralNervousSystem
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_PeripheralNervousSystem
+│  │      0_Introduction.txt
+│  │      
+│  └─6_NeuralPlasticityAndRegeneration
+│          0_Introduction.txt
+│          
+├─Chap10_MuscleTissue
+│  │  Introduction.txt
+│  │  
+│  ├─1_SkeletalMuscle
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_CardiacMuscle
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_SmoothMuscle
+│  │      0_Introduction.txt
+│  │      
+│  └─4_RegenerationOfMuscleTissue
+│          0_Introduction.txt
+│          
+├─Chap11_TheCirculatorySystem
+│  │  Introduction.txt
+│  │  
+│  ├─1_Heart
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_TissuesOfTheVascularWall
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_Vasculature
+│  │      0_Introduction.txt
+│  │      
+│  └─4_LymphaticVascularSystem
+│          0_Introduction.txt
+│          
+├─Chap12_Blood
+│  │  Introduction.txt
+│  │  
+│  ├─1_CompositionOfPlasma
+│  │      0_Introduction.txt
+│  │      
+│  └─2_BloodCells
+│          0_Introduction.txt
+│          
+├─Chap13_Hemopoiesis
+│  │  Introduction.txt
+│  │  
+│  ├─1_StemCellsGrowthFactorsAndDifferentiation
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_BoneMarrow
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_MaturationOfErythrocytes
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_MaturationOfGranulocytes
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_MaturationOfAgranulocytes
+│  │      0_Introduction.txt
+│  │      
+│  └─6_OriginOfPlatelets
+│          0_Introduction.txt
+│          
+├─Chap14_TheImmuneSystemAndLymphoidOrgans
+│  │  Introduction.txt
+│  │  
+│  ├─1_InnateAndAdaptiveImmunity
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_Cytokines
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_AntigensAndAntibodies
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_AntigenPresentation
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_CellsOfAdaptiveImmunity
+│  │      0_Introduction.txt
+│  │      
+│  ├─6_Thymus
+│  │      0_Introduction.txt
+│  │      
+│  ├─7_MucosaAssociatedLymphoidTissue
+│  │      0_Introduction.txt
+│  │      
+│  ├─8_LymphNodes
+│  │      0_Introduction.txt
+│  │      
+│  └─9_Spleen
+│          0_Introduction.txt
+│          
+├─Chap15_DigestiveTract
+│  │  Introduction.txt
+│  │  
+│  ├─1_GeneralStructureOfTheDigestiveTract
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_OralCavity
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_Esophagus
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_Stomach
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_SmallIntestine
+│  │      0_Introduction.txt
+│  │      
+│  └─6_LargeIntestine
+│          0_Introduction.txt
+│          
+├─Chap16_OrgansAssociatedWithTheDigestiveTract
+│  │  Introduction.txt
+│  │  
+│  ├─1_SalivaryGlands
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_Pancreas
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_Liver
+│  │      0_Introduction.txt
+│  │      
+│  └─4_BiliaryTractAndGallbladder
+│          0_Introduction.txt
+│          
+├─Chap17_TheRespiratorySystem
+│  │  Introduction.txt
+│  │  
+│  ├─1_NasalCavity
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_Nasopharynx
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_Larynx
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_Trachea
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_BronchialTreeAndLung
+│  │      0_Introduction.txt
+│  │      
+│  ├─6_LungVasculatureAndNerves
+│  │      0_Introduction.txt
+│  │      
+│  └─7_PleuralMembranes
+│          0_Introduction.txt
+│          
+├─Chap18_Skin
+│  │  Introduction.txt
+│  │  
+│  ├─1_Epidermis
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_Dermis
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_SubcutaneousTissue
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_SensoryReceptors
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_Hair
+│  │      0_Introduction.txt
+│  │      
+│  ├─6_Nail
+│  │      0_Introduction.txt
+│  │      
+│  ├─7_SkinGlands
+│  │      0_Introduction.txt
+│  │      
+│  └─8_SkinRepair
+│          0_Introduction.txt
+│          
+├─Chap19_TheUrinarySystem
+│  │  Introduction.txt
+│  │  
+│  ├─1_Kidneys
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_BloodCirculation
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_RenalFunctionFiltrationSecretionReabsorption
+│  │      0_Introduction.txt
+│  │      
+│  └─4_UretersBladderUrethra
+│          0_Introduction.txt
+│          
+├─Chap20_EndocrineGlands
+│  │  Introduction.txt
+│  │  
+│  ├─1_PituitaryGlands
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_AdrenalGlands
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_PancreaticIslets
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_DiffuseNeuroendocrineSystem
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_ThyroidGland
+│  │      0_Introduction.txt
+│  │      
+│  ├─6_ParathyroidGlands
+│  │      0_Introduction.txt
+│  │      
+│  └─7_PinealGland
+│          0_Introduction.txt
+│          
+├─Chap21_TheMaleReproductiveSystem
+│  │  Introduction.txt
+│  │  
+│  ├─1_Testes
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_IntratesticularDucts
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_ExcretoryGenitalDucts
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_AccessoryGlands
+│  │      0_Introduction.txt
+│  │      
+│  └─5_Penis
+│          0_Introduction.txt
+│          
+├─Chap22_TheFemaleReproductiveSystem
+│  │  Introduction.txt
+│  │  
+│  ├─1_Ovaries
+│  │      0_Introduction.txt
+│  │      
+│  ├─2_UterineTubes
+│  │      0_Introduction.txt
+│  │      
+│  ├─3_MajorEventsOfFertilization
+│  │      0_Introduction.txt
+│  │      
+│  ├─4_Uterus
+│  │      0_Introduction.txt
+│  │      
+│  ├─5_EmbryonicImplantationDeciduaThePlacenta
+│  │      0_Introduction.txt
+│  │      
+│  ├─6_Cervix
+│  │      0_Introduction.txt
+│  │      
+│  ├─7_Vagina
+│  │      0_Introduction.txt
+│  │      
+│  ├─8_ExternalGenitalia
+│  │      0_Introduction.txt
+│  │      
+│  └─9_MammaryGlands
+│          0_Introduction.txt
+│          
+├─Chap23_TheEyeAndEar
+│  │  Introduction.txt
+│  │  
+│  ├─1_Eyes
+│  │      0_Introduction.txt
+│  │      
+│  └─2_Ears
+│          0_Introduction.txt
+│          
+└─Move
+        move.txt
+        
