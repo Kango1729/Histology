@@ -191,6 +191,9 @@ D:\GIT\HISTOLOGY
 „   „   
 „   „¥„Ÿ1_BoneCells
 „   „       0_Introduction.txt
+„   „       1_Osteoblast.txt
+„   „       2_Osteocyte.txt
+„   „       3_Osteoclast.txt
 „   „       
 „   „¥„Ÿ2_BoneMatrix
 „   „       0_Introduction.txt
@@ -200,14 +203,21 @@ D:\GIT\HISTOLOGY
 „   „       
 „   „¥„Ÿ4_TypesOfBone
 „   „       0_Introduction.txt
+„   „       1_LamellarBone.txt
+„   „       2_WovenBone.txt
 „   „       
 „   „¥„Ÿ5_Osteogenesis
 „   „       0_Introduction.txt
+„   „       1_IntramembranousOssification.txt
+„   „       2_EndochondralOssification
 „   „       
 „   „¥„Ÿ6_BoneGrowthRemodelingAndRepair
 „   „       0_Introduction.txt
 „   „       
-„   „¤„Ÿ7_MetabolicRoleOfBone
+„   „¥„Ÿ7_MetabolicRoleOfBone
+„   „       0_Introduction.txt
+„   „       
+„   „¤„Ÿ8_Joint
 „           0_Introduction.txt
 „           
 „¥„ŸChap09_NerveTissueAndTheNervousSystem
