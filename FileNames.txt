@@ -149,7 +149,7 @@ D:\GIT\HISTOLOGY
 Да  ДеДЯ3_GroundSubstance
 Да  Да      0_Introduction.txt
 Да  Да      
-Да  ДдДЯ4_TypesOfConnectiveCells
+Да  ДдДЯ4_TypesOfConnectiveTissues
 Да          0_Introduction.txt
 Да          1_ConnectiveTissueProper.txt
 Да          2_ReticularTissue.txt
@@ -228,13 +228,32 @@ D:\GIT\HISTOLOGY
 Да  Да      
 Да  ДеДЯ2_Neurons
 Да  Да      0_Introduction.txt
+Да  Да      1_CellBody.txt
+Да  Да      2_Dendrite.txt
+Да  Да      3_Axon.txt
+Да  Да      4_NerveImpulse.txt
+Да  Да      5_SynapseTransmission.txt
 Да  Да      
 Да  ДеДЯ3_GlialCellsAndNeuronalActivity
 Да  Да      0_Introduction.txt
+Да  Да      1_Oligodendrocyte.txt
+Да  Да      2_Astrocyte.txt
+Да  Да      3_EpendymalCell.txt
+Да  Да      4_Microglia.txt
+Да  Да      5_SchwannCell.txt
+Да  Да      6_SateliteCellForGanglions.txt
 Да  Да      
 Да  ДеДЯ4_CentralNervousSystem
-Да  Да      0_Introduction.txt
-Да  Да      
+Да  Да  Да  0_Introduction.txt
+Да  Да  Да  2_BloodBrainBarrier.txt
+Да  Да  Да  3_ChoroidPlexus.txt
+Да  Да  Да  
+Да  Да  ДдДЯ1_Meninx
+Да  Да          0_Introduction.txt
+Да  Да          1_DuraMater.txt
+Да  Да          2_Arachnoid.txt
+Да  Да          3_PiaMater.txt
+Да  Да          
 Да  ДеДЯ5_PeripheralNervousSystem
 Да  Да      0_Introduction.txt
 Да  Да      
