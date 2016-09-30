@@ -21,7 +21,7 @@ templateFile.close()
 templateFront = templateLines[:templateLines.find("<span")]
 templateBack = templateLines[templateLines.find("</span>") + 7:]
 
-OutputLine = templateFront + "".join(OutputText).replace("\n", "<br>\n") + templateBack
+OutputLine = templateFront + "".join(OutputText).replace("\n", "<br>\n").replace("</span>","</span>\n") + templateBack
 print(OutputLine)
 
 htmlName = input('htmlFile Name?: ') + ".html"
