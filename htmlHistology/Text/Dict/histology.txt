@@ -1,0 +1,2 @@
+#組織学,histology,2#は人体の#微細構造,microstructure,1#を観察し考察する学問である。
+#微細構造,microstructure,1#の観察のためには#顕微鏡,microscope,2#（#光学顕微鏡,light microscrope,1#や#電子顕微鏡,electron microscope,1#）の使用が一般的である。
