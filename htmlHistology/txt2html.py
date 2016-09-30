@@ -21,11 +21,11 @@ templateFile.close()
 templateFront = templateLines[:templateLines.find("<span")]
 templateBack = templateLines[templateLines.find("</span>") + 7:]
 
-OutputLine = templateFront + "".join(OutputText) + templateBack
+OutputLine = templateFront + "".join(OutputText).replace("\n", "<br>\n") + templateBack
 print(OutputLine)
 
 htmlName = input('htmlFile Name?: ') + ".html"
 htmlFile = open(htmlName, 'w', encoding = 'utf-8')
 htmlFile.write(OutputLine)
-htmlFile.fluch()
+htmlFile.flush()
 htmlFile.close()
