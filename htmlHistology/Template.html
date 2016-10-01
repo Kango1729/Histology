@@ -8,11 +8,22 @@
 <meta class = 'description' content = "" onload = 'ReadMode(&quot;description&quot;)'>
 </head>
 
-<body onload = 'ReadMode("form")'>
+<body onload = 'QuestMode("form")'>
   <form>
     <input type = 'button' value = 'QuestionMode'  onclick = 'QuestMode("form")'>
     </input>
   </form>
+  <select id = "QuestLang">
+    <option value = 0 selected = "selected">空欄   -----(日本語)-----&gt;   日本語(英語)</option>
+    <option value = 1>空欄   ----(英語)-----&gt;   日本語(英語)</option>
+    <option value = 2>日本語   -----(英語)-----&gt;   日本語(英語)</option>
+    <option value = 3>英語 -----(日本語)-----&gt; 日本語(英語)</option>
+  </select><br>
+
+  <form>
+    <input type = 'button' value = 'ReadMode'  onclick = 'ReadMode("form")'></input>
+  </form>
+
     <select id = "ReadLang">
       <option value = 0 selected = "selected">日本語と英語</option>
       <option value = 1>日本語</option>
@@ -20,17 +31,7 @@
     </select>
     <br>
 
-  <form>
-    <input type = 'button' value = 'ReadMode'  onclick = 'ReadMode("form")'></input>
-  </form>
-  <!--
-  <select id = "Lang">
-    <option value = 0 selected = "selected">日本語と英語</option>
-    <option value = 1>日本語</option>
-    <option value = 2>英語</option>
-  </select><br>
--->
-<span class = 'form' data-answer = '' data-eng ='' data-hide = '' data-link = 'Dict/'>  </span>
+<span class = 'form' data-jp = '' data-eng ='' data-hide = '' data-link = 'Dict/.html'>  </span>
 
 </body>
 </html>
