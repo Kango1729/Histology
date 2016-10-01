@@ -4,28 +4,45 @@ txtName = input('txtFile Name?: ') + ".txt"
 txtFile = open(txtName, 'r',encoding = 'utf-8')
 txtLines = txtFile.readlines()
 txtFile.close()
-OutputText = []
+OutputTexts = []
+
+tempName = "Template.html" #input('templateName?: ' )
+tempFile = open(tempName, 'r',encoding = 'utf-8')
+tempLines = "".join(tempFile.readlines())
+tempFile.close()
+
+Summarys = []
+Summarys.append("<meta class = \'description\' content = \"")
+Summarys.append("\" onload = \'ReadMode(&quot;description&quot;)'>")
+Summary = "".join(Summarys)
+
+TextContents = []
+TextContents.append("<span class = \'form\' data-answer = \'")
+TextContents.append("\' data-eng =\'")
+TextContents.append("\' data-hide = \'")
+TextContents.append("\' data-link = \'Dict/")
+TextContents.append("\'>  </span>")
+TextContent = "".join(TextContents)
+
+tempSegs = []
+tempSegs.append(tempLines[:tempLines.find(Summary)])
+tempSegs.append (tempLines[tempLines.find(Summary) + len(Summary) : tempLines.find(TextContent)])
+tempSegs.append(tempLines[tempLines.find(TextContent) + len(TextContent):])
+
 for txtLine in txtLines:
     tags = txtLine.split("#")
     for i in range(1, len(tags), 2):
         datasets = tags[i].split(",")
-        tags[i] = "<span class = 'form' data-answer = '" + datasets[0] + "' data-eng ='" + datasets[1] + "' data-hide = '" + datasets[2] + "' data-link = 'Text/Dict/" + datasets[1] + "'>  </span>"
-    OutputText.append("".join(tags))
+        tags[i] = TextContents[0] + datasets[0] + TextContents[1] + datasets[1] + TextContents[2] + datasets[2] + TextContents[3] + datasets[1] + TextContents[4]
 
-templateName = "Template.html" #input('templateName?: ' )
-templateFile = open(templateName, 'r',encoding = 'utf-8')
-templateLines = "".join(templateFile.readlines())
-templateFile.close()
+    OutputTexts.append("".join(tags).replace("\n", "<br>\n").replace("</span>","</span>\n"))
 
 
-templateFront = templateLines[:templateLines.find("<span")]
-templateBack = templateLines[templateLines.find("</span>") + 7:]
+    OutputText = "".join([tempSegs[0], Summarys[0], OutputTexts[0], Summarys[1], tempSegs[1], "".join(OutputTexts),  tempSegs[2]])
 
-OutputLine = templateFront + "".join(OutputText).replace("\n", "<br>\n").replace("</span>","</span>\n") + templateBack
-print(OutputLine)
-
+print(OutputText)
 htmlName = input('htmlFile Name?: ') + ".html"
 htmlFile = open(htmlName, 'w', encoding = 'utf-8')
-htmlFile.write(OutputLine)
+htmlFile.write(OutputText)
 htmlFile.flush()
 htmlFile.close()

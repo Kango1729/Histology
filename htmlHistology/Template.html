@@ -5,10 +5,32 @@
 <meta charset = "utf-8">
 <base href = "file:///D:/Git/Histology/htmlHistology/">
 <script script type = "text/javascript" src = "Modes.js"></script>
+<meta class = 'description' content = "" onload = 'ReadMode(&quot;description&quot;)'>
 </head>
 
-<body onload = 'ReadMode()'>  <form><input type = 'button' value = 'QuestionMode'  onclick = 'QuestMode()'></input></form><form><input type = 'button' value = 'ReadMode'  onclick = 'ReadMode()'></input></form>
+<body onload = 'ReadMode("form")'>
+  <form>
+    <input type = 'button' value = 'QuestionMode'  onclick = 'QuestMode("form")'>
+    </input>
+  </form>
+    <select id = "ReadLang">
+      <option value = 0 selected = "selected">日本語と英語</option>
+      <option value = 1>日本語</option>
+      <option value = 2>英語</option>
+    </select>
+    <br>
 
-<span class = 'form' data-answer = '' data-eng ='' data-hide = '1' data-link = 'Dict/'>  </span>
+  <form>
+    <input type = 'button' value = 'ReadMode'  onclick = 'ReadMode("form")'></input>
+  </form>
+  <!--
+  <select id = "Lang">
+    <option value = 0 selected = "selected">日本語と英語</option>
+    <option value = 1>日本語</option>
+    <option value = 2>英語</option>
+  </select><br>
+-->
+<span class = 'form' data-answer = '' data-eng ='' data-hide = '' data-link = 'Dict/'>  </span>
+
 </body>
 </html>

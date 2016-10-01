@@ -1,10 +1,20 @@
-function ReadMode(){
-    [].forEach.call(document.getElementsByClassName("form"),function(form){
-        form.innerHTML = "<b>" + form.dataset.answer + "</b>"
+function ReadMode(form){
+    [].forEach.call(document.getElementsByClassName(form),function(form){
+        switch (Number(document.getElementById("ReadLang").value)) {
+            case 1:
+                form.innerHTML = "<b>" + form.dataset.answer + "</b>"
+                break;
+            case 2:
+                form.innerHTML = "<b>" + form.dataset.eng + "</b>"
+                break;
+            default:
+            form.innerHTML = "<b>" + form.dataset.answer + "  (" +form.dataset.eng + ") </b>"
+
+        }
     });
 }
-function QuestMode (){
-    [].forEach.call(document.getElementsByClassName("form"), function(form){
+function QuestMode (form){
+    [].forEach.call(document.getElementsByClassName(form), function(form){
         form.innerHTML =""
         var text = document.createElement("input");
         text.type = "text";
