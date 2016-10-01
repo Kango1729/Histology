@@ -33,7 +33,7 @@ for txtLine in txtLines:
     tags = txtLine.split("#")
     for i in range(1, len(tags), 2):
         datasets = tags[i].split(",")
-        tags[i] = TextContents[0] + datasets[0] + TextContents[1] + datasets[1] + TextContents[2] + datasets[2] + TextContents[3] + datasets[1] + TextContents[4]
+        tags[i] = TextContents[0] + datasets[0] + TextContents[1] + datasets[1] + TextContents[2] + datasets[2] + TextContents[3] + datasets[1].replace(" ", "_")+ TextContents[4]
 
     OutputTexts.append("".join(tags).replace("\n", "<br>\n").replace("</span>","</span>\n"))
 
