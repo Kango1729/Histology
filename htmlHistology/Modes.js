@@ -28,7 +28,7 @@ function ReadForm(form, Color){
                 output = "<i>" + output + "</i>"
                 break;
             case 3:
-                output = "<font color = '#ff0000'><b>" + output + "</b></font>"
+                output = "<i><b>" + output + "</b></i>"
             default:
         }
 
