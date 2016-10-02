@@ -1,0 +1,3 @@
+#組織,Tissue,topic#は#固有の機能,specific function,0#を共有する#細胞,cell,1#やそれに産生された#細胞外基質,extracellular matrix,1#の集団である。英語語源は#古フランス語「織られた」,tissu,origin#である。
+その形態や組成に基づき、#組織,tissue,4#は#組織の4基本型,four basic types of tissue,1#に分類される。それは、#被覆,covering,2#と#分泌,excretion,2#を主に担う#上皮組織,epithelial tissue,1#、#支持,support,2#を主に担う#結合組織,connective tissue,1#、#運動,movement,2#を主に担う#筋組織,muscle tissue,1#、#神経インパルス,nerve impulse,2#の伝達を主に担う#神経組織,nerve tissue,2#の4つである。
+各#器官,organ,0#内の#組織,tissue,4#は実際にその#固有の機能,specific function,2#を担う#実質,parenchyma,1#と支持組織である#間質||支質,stroma,1#に分類される。
