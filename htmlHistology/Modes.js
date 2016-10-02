@@ -8,7 +8,7 @@ function ReadMode(form){
                 form.innerHTML = "<b>" + form.dataset.eng + "</b>"
                 break;
             default:
-            form.innerHTML = "<b>" + form.dataset.jp + "  (" +form.dataset.eng + ") </b>"
+            form.innerHTML = "<b>" + form.dataset.jp + " &quot;" +form.dataset.eng + "&quot; </b>"
 
         }
     });
