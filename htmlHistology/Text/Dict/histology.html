@@ -5,17 +5,29 @@
 <meta charset = "utf-8">
 <base href = "file:///D:/Git/Histology/htmlHistology/">
 <script script type = "text/javascript" src = "Modes.js"></script>
-<meta class = 'description' content = "<span class = 'form' data-answer = '組織学' data-eng ='histology' data-hide = '2' data-link = 'Dict/histology'>  </span>
-は人体の<span class = 'form' data-answer = '微細構造' data-eng ='microstructure' data-hide = '1' data-link = 'Dict/microstructure'>  </span>
-を観察し考察する学問である。<br>
+<meta class = 'description' content = "<span class = 'form' data-jp = '組織学' data-eng ='histology' data-hide = '0' data-link = 'Dict/histology.html'>  </span>
+は人体の<span class = 'form' data-jp = '微細構造' data-eng ='microstructure' data-hide = '1' data-link = 'Dict/microstructure.html'>  </span>
+を観察し考察する学問である。語源は<span class = 'form' data-jp = 'ギリシャ語&quot;histo&quot;' data-eng ='組織、網目' data-hide = 'origin' data-link = 'Dict/組織、網目.html'>  </span>
+である。<br>
 " onload = 'ReadMode(&quot;description&quot;)'>
 </head>
 
-<body onload = 'ReadMode("form")'>
+<body onload = 'QuestMode("form")'>
   <form>
     <input type = 'button' value = 'QuestionMode'  onclick = 'QuestMode("form")'>
     </input>
   </form>
+  <select id = "QuestLang">
+    <option value = 0 selected = "selected">空欄   -----(日本語)-----&gt;   日本語(英語)</option>
+    <option value = 1>空欄   ----(英語)-----&gt;   日本語(英語)</option>
+    <option value = 2>日本語   -----(英語)-----&gt;   日本語(英語)</option>
+    <option value = 3>英語 -----(日本語)-----&gt; 日本語(英語)</option>
+  </select><br>
+
+  <form>
+    <input type = 'button' value = 'ReadMode'  onclick = 'ReadMode("form")'></input>
+  </form>
+
     <select id = "ReadLang">
       <option value = 0 selected = "selected">日本語と英語</option>
       <option value = 1>日本語</option>
@@ -23,24 +35,34 @@
     </select>
     <br>
 
-  <form>
-    <input type = 'button' value = 'ReadMode'  onclick = 'ReadMode("form")'></input>
-  </form>
-  <!--
-  <select id = "Lang">
-    <option value = 0 selected = "selected">日本語と英語</option>
-    <option value = 1>日本語</option>
-    <option value = 2>英語</option>
-  </select><br>
--->
-<span class = 'form' data-answer = '組織学' data-eng ='histology' data-hide = '2' data-link = 'Dict/histology'>  </span>
-は人体の<span class = 'form' data-answer = '微細構造' data-eng ='microstructure' data-hide = '1' data-link = 'Dict/microstructure'>  </span>
-を観察し考察する学問である。<br>
-<span class = 'form' data-answer = '微細構造' data-eng ='microstructure' data-hide = '1' data-link = 'Dict/microstructure'>  </span>
-の観察のためには<span class = 'form' data-answer = '顕微鏡' data-eng ='microscope' data-hide = '2' data-link = 'Dict/microscope'>  </span>
-（<span class = 'form' data-answer = '光学顕微鏡' data-eng ='light microscrope' data-hide = '1' data-link = 'Dict/light microscrope'>  </span>
-や<span class = 'form' data-answer = '電子顕微鏡' data-eng ='electron microscope' data-hide = '1' data-link = 'Dict/electron microscope'>  </span>
-）の使用が一般的である。<br>
+<span class = 'form' data-jp = '組織学' data-eng ='histology' data-hide = '0' data-link = 'Dict/histology.html'>  </span>
+は人体の<span class = 'form' data-jp = '微細構造' data-eng ='microstructure' data-hide = '1' data-link = 'Dict/microstructure.html'>  </span>
+を観察し考察する学問である。語源は<span class = 'form' data-jp = 'ギリシャ語&quot;histo&quot;' data-eng ='組織、網目' data-hide = 'origin' data-link = 'Dict/組織、網目.html'>  </span>
+である。<br>
+<span class = 'form' data-jp = '微細構造' data-eng ='microstructure' data-hide = '1' data-link = 'Dict/microstructure.html'>  </span>
+の観察のためには<span class = 'form' data-jp = '顕微鏡' data-eng ='microscope' data-hide = '0' data-link = 'Dict/microscope.html'>  </span>
+（<span class = 'form' data-jp = '光学顕微鏡' data-eng ='light microscrope' data-hide = '1' data-link = 'Dict/light_microscrope.html'>  </span>
+やより<span class = 'form' data-jp = '解像度||分解能' data-eng ='resolution' data-hide = '' data-link = 'Dict/resolution.html'>  </span>
+の高い<span class = 'form' data-jp = '電子顕微鏡' data-eng ='electron microscope' data-hide = '1' data-link = 'Dict/electron_microscope.html'>  </span>
+）の使用が一般的である。<span class = 'form' data-jp = '顕微鏡' data-eng ='microscope' data-hide = '0' data-link = 'Dict/microscope.html'>  </span>
+で観察すると人体は、<span class = 'form' data-jp = '細胞' data-eng ='cell' data-hide = '1' data-link = 'Dict/cell.html'>  </span>
+とその周囲の<span class = 'form' data-jp = '細胞外基質' data-eng ='extracellular matrix' data-hide = '1' data-link = 'Dict/extracellular_matrix.html'>  </span>
+からなる。その形態や組成に基づき、<span class = 'form' data-jp = '組織' data-eng ='tissue' data-hide = '0' data-link = 'Dict/tissue.html'>  </span>
+は<span class = 'form' data-jp = '組織の4基本型' data-eng ='four basic types of tissue' data-hide = '1' data-link = 'Dict/four_basic_types_of_tissue.html'>  </span>
+に分類される。それは、<span class = 'form' data-jp = '被覆' data-eng ='covering' data-hide = '2' data-link = 'Dict/covering.html'>  </span>
+と<span class = 'form' data-jp = '分泌' data-eng ='excretion' data-hide = '2' data-link = 'Dict/excretion.html'>  </span>
+を主に担う<span class = 'form' data-jp = '上皮組織' data-eng ='epithelial tissue' data-hide = '1' data-link = 'Dict/epithelial_tissue.html'>  </span>
+、<span class = 'form' data-jp = '支持' data-eng ='support' data-hide = '2' data-link = 'Dict/support.html'>  </span>
+を主に担う<span class = 'form' data-jp = '結合組織' data-eng ='connective tissue' data-hide = '1' data-link = 'Dict/connective_tissue.html'>  </span>
+、<span class = 'form' data-jp = '運動' data-eng ='movement' data-hide = '2' data-link = 'Dict/movement.html'>  </span>
+を主に担う<span class = 'form' data-jp = '筋組織' data-eng ='muscle tissue' data-hide = '1' data-link = 'Dict/muscle_tissue.html'>  </span>
+、<span class = 'form' data-jp = '神経インパルス' data-eng ='nerve impulse' data-hide = '2' data-link = 'Dict/nerve_impulse.html'>  </span>
+の伝達を主に担う<span class = 'form' data-jp = '神経組織' data-eng ='nerve tissue' data-hide = '2' data-link = 'Dict/nerve_tissue.html'>  </span>
+の4つである。<br>
+また、各<span class = 'form' data-jp = '器官' data-eng ='organ' data-hide = '0' data-link = 'Dict/organ.html'>  </span>
+内の構成要素は実際にその機能を担う<span class = 'form' data-jp = '実質' data-eng ='parenchyma' data-hide = '1' data-link = 'Dict/parenchyma.html'>  </span>
+と支持組織である<span class = 'form' data-jp = '間質||支質' data-eng ='stroma' data-hide = '1' data-link = 'Dict/stroma.html'>  </span>
+に分類される。<br>
 
 
 </body>
