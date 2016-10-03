@@ -1,1 +1,13 @@
 #顕微鏡,microscope,topic#は拡大する事で#微細構造,microstructure,0#を確認する装置である。英語語源は#英語「小さい＋見る」,micro + scope,origin#である。
+#顕微鏡,microscope,4#には#光学顕微鏡,light microscope,1#と、より能力が高い#電子顕微鏡,electron microscope,1#が存在する。#光学顕微鏡,#顕微鏡,microscope,4#の能力は、2つの点が分かれて見える最小の距離で評価され、これを#解像度||分解能,resolution,1#という。#光学顕微鏡,light microscope,3#の#解像度||分解能,resolution,3#は約#200nm,200nm,1#であり、#電子顕微鏡,electron microscope,1#は約#3nm,3nm,1#である。
+
+#光学顕微鏡,light microscope,3#には幾つか種類がある。
+⑴#明視野顕微鏡,bright light microscope,1#は切片に
+⑵#共焦点顕微鏡,confocal microscope,1#
+⑶#蛍光顕微鏡,fluorescence microscope,1#
+⑷#偏光顕微鏡,polorizing microscope,1#
+⑸#位相差顕微鏡,t
+などがある。
+#電子顕微鏡,electron microscope,3#には2種類ある。
+⑴#透過型電子顕微鏡
+⑵#走査型電子顕微鏡
