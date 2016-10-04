@@ -6,7 +6,7 @@ function ReadMode(form){
     });
 }
 function ReadForm(form, Color){
-    switch (Number(document.getElementById("ReadLang").value)) {
+			    switch (Number(document.getElementById("ReadLang").value)) {
         case 1:
             output = "<font color = " + Color + ">" + form.dataset.jp + "</font>";
             break;
@@ -19,8 +19,14 @@ function ReadForm(form, Color){
         var boolBold = {"0":1,"1":1,"2":0,"3":0,"4":0,"topic":3,"origin":2};
         switch (boolBold[form.dataset.rfont]) {
             case 0:
-                output = output;
-                break;
+            	switch (Number(document.getElementById("ReadLang").value)) {
+            		case 2:
+        				output = "<font color = " + Color + ">" + form.dataset.eng + "</font>"
+            		break;
+            		default:
+        				output = "<font color = " + Color + ">" + form.dataset.jp +"</font>";
+            	}
+            break;
             case 1:
                 output = "<b>" + output + "</b>";
                 break;
@@ -36,6 +42,7 @@ return output;
 }
 
 function QuestMode (form){
+
     [].forEach.call(document.getElementsByClassName(form), function(form){
     	var boolHide = {"0":0,"1":1,"2":0,"3":1,"4":0,"topic":0,"origin":0};
     	if (boolHide[form.dataset.rfont] == 1){

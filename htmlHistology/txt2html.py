@@ -38,8 +38,8 @@ Summary = SummaryTemp[0] + '""' + SummaryTemp[1]
 '''各行にエスケープシークエンス'''
 for i in range(len(txtLines)):
     txtLines[i] = txtLines[i].replace("\"","&quot;")
-    txtLines[i] = txtLines[i].replace("<","&lt;")
-    txtLines[i] = txtLines[i].replace(">","&gt;")
+#    txtLines[i] = txtLines[i].replace("<","&lt;")
+#    txtLines[i] = txtLines[i].replace(">","&gt;")
 
 '''マークアップテンプレート作成'''
 

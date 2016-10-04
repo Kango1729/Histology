@@ -1,3 +1,15 @@
 #組織学,histology,topic#は人体を構成する#組織,tissue,0#の#微細構造,microstructure,1#を観察し考察する学問である。英語語源は#ギリシャ語「組織、網目」,histo,origin#である。
-#微細構造,microstructure,3#の観察のためには#顕微鏡,microscope,0#（#光学顕微鏡,light microscrope,1#やより#解像度||分解能,resolution,#の高い#電子顕微鏡,electron microscope,1#）の使用が一般的である。#顕微鏡,microscope,4#で観察すると人体は、#細胞,cell,1#とそれに産生される#細胞外基質,extracellular matrix,1#からなる。
-#組織,tissue,4#を#顕微鏡,microscope,4#で観察する事には適切な処理が必要である。まず、#組織,tissue,4#から、#組織片,tissue slice,1#を取り出す。#組織片,tissue slice,3#作成直後に#固定,embedding,1#により、
+
+
+<h3>他分野との関係</h3>
+#組織学,histology,4#は多くの学問と繋がりをもつ。特に以下の2つは深い関わりがある。
+⑴#解剖学,anatomy,0#：#肉眼,bare eyes,1#で#巨視的構造,macrostructure,1#を観察する。一方#組織学,histology,4#は、#顕微鏡,microscope,1#で#微細構造,microstructure,3#を観察する。
+⑵#病理学,pathology,0#：#異常,abnormal,1#な#微細構造,microstructure,3#を観察する。一方#組織学,histology,4#は、#正常,normal,1#な#微細構造,microstructure,3#を観察する。
+
+
+<h3>#組織学,histology,4#の研究方法</h3>
+#微細構造,microstructure,3#の観察のためには#顕微鏡,microscope,0#（#光学顕微鏡,light microscrope,1#やより#解像度||分解能,resolution,#の高い#電子顕微鏡,electron microscope,1#）の使用が一般的である。#組織,tissue,4#を#顕微鏡,microscope,4#で観察する事には適切な処理が必要である。
+
+
+<h3>#組織学,histology,4#の概観</h3>
+人体は、#細胞,cell,1#とそれに産生される#細胞外基質,extracellular matrix,1#からなる。#組織,tissue,0#は#固有の機能,specific function,4#を共有する#細胞,cell,3#やそれに産生された#細胞外基質,extracellular matrix,3#の集団である。形態や組成に基づき、#組織,tissue,4#は#組織の4基本型,four basic types of tissue,1#に分類される。
