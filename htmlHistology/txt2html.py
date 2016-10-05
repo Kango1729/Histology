@@ -65,7 +65,7 @@ for txtLine in txtLines:
         datasets = tags[i].split(",")
         tags[i] = TextContents[0] + datasets[0] + TextContents[1] + datasets[1] + TextContents[2] + datasets[2] + TextContents[3] + datasets[1].replace(" ", "_")+ TextContents[4].replace("\n",'')
 
-    OutputTexts.append("".join(tags).replace("\n", "<br>\n").replace("</span>","</span><!--\n-->"))
+    OutputTexts.append("".join(tags).replace("\n", "<br>\n").replace("</span>","</span><!--\n-->").replace("</h3><br>",</h3>"))
 
 
 '''本文以外の部分の作成'''
