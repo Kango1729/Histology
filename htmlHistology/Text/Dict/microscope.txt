@@ -1,13 +1,19 @@
 #顕微鏡,microscope,topic#は拡大する事で#微細構造,microstructure,0#を確認する装置である。英語語源は#英語「小さい＋見る」,micro + scope,origin#である。
-#顕微鏡,microscope,4#には#光学顕微鏡,light microscope,1#と、より能力が高い#電子顕微鏡,electron microscope,1#が存在する。#光学顕微鏡,#顕微鏡,microscope,4#の能力は、2つの点が分かれて見える最小の距離で評価され、これを#解像度||分解能,resolution,1#という。#光学顕微鏡,light microscope,3#の#解像度||分解能,resolution,3#は約#200nm,200nm,1#であり、#電子顕微鏡,electron microscope,1#は約#3nm,3nm,1#である。
 
+
+<h3>2種類の#顕微鏡,microscope,4#</h3>
+#顕微鏡,microscope,4#には可視光を用いた#光学顕微鏡,light microscope,1#と、電子線を用いた#電子顕微鏡,electron microscope,1#が存在する。#顕微鏡,microscope,4#の能力は、2つの点が分かれて見える最小の距離で評価され、これを#解像度||分解能,resolution,1#という。#光学顕微鏡,light microscope,3#の#解像度||分解能,resolution,3#は約#200nm,200nm,1#であり、#電子顕微鏡,electron microscope,1#は約#3nm,3nm,1#である。
+
+
+<h3>様々な#顕微鏡,microscope,4#</h3>
 #光学顕微鏡,light microscope,3#には幾つか種類がある。
-⑴#明視野顕微鏡,bright light microscope,1#は切片に
-⑵#共焦点顕微鏡,confocal microscope,1#
-⑶#蛍光顕微鏡,fluorescence microscope,1#
-⑷#偏光顕微鏡,polorizing microscope,1#
-⑸#位相差顕微鏡,t
+⑴#明視野顕微鏡,bright light microscope,2#
+⑵#共焦点顕微鏡,confocal microscope,2#
+⑶#蛍光顕微鏡,fluorescence microscope,2#
+⑷#偏光顕微鏡,polorizing microscope,2#
+⑸#位相差顕微鏡,phase contrast microscope,2#
+⑹#微分干渉顕微鏡,differential interference contrast microscope,2#
 などがある。
 #電子顕微鏡,electron microscope,3#には2種類ある。
-⑴#透過型電子顕微鏡
-⑵#走査型電子顕微鏡
+⑴#透過型電子顕微鏡,transperant electron microscope,2#
+⑵#走査型電子顕微鏡,scanning electron microscope,2#

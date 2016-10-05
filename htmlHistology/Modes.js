@@ -1,7 +1,7 @@
 function ReadMode(form){
     [].forEach.call(document.getElementsByClassName(form),function(form){
 
-        form.innerHTML = ReadForm(form, '#000000' )
+        form.innerHTML = ReadForm(form, '#000000' );
 
     });
 }
@@ -11,17 +11,17 @@ function ReadForm(form, Color){
             output = "<font color = " + Color + ">" + form.dataset.jp + "</font>";
             break;
         case 2:
-            output = "<font color = " + Color + ">" + form.dataset.eng + "</font>"
+            output = "<font color = " + Color + ">" + form.dataset.eng + "</font>";
             break;
         default:
             output = "<font color = " + Color + ">" + form.dataset.jp + "&quot;" +  form.dataset.eng + "&quot;</font>";
         }
-        var boolBold = {"0":1,"1":1,"2":0,"3":0,"4":0,"topic":3,"origin":2};
+        var boolBold = {"0":1,"1":1,"2":2,"3":0,"4":0,"topic":4,"origin":3};
         switch (boolBold[form.dataset.rfont]) {
             case 0:
             	switch (Number(document.getElementById("ReadLang").value)) {
             		case 2:
-        				output = "<font color = " + Color + ">" + form.dataset.eng + "</font>"
+        				output = "<font color = " + Color + ">" + form.dataset.eng + "</font>";
             		break;
             		default:
         				output = "<font color = " + Color + ">" + form.dataset.jp +"</font>";
@@ -31,10 +31,13 @@ function ReadForm(form, Color){
                 output = "<b>" + output + "</b>";
                 break;
             case 2:
-                output = "<i>" + output + "</i>"
-                break;
+            	output = output;
+            break;
             case 3:
-                output = "<i><b>" + output + "</b></i>"
+                output = "<i>" + output + "</i>";
+                break;
+            case 4:
+                output = "<i><b>" + output + "</b></i>";
             default:
         }
 
@@ -46,7 +49,7 @@ function QuestMode (form){
     [].forEach.call(document.getElementsByClassName(form), function(form){
     	var boolHide = {"0":0,"1":1,"2":0,"3":1,"4":0,"topic":0,"origin":0};
     	if (boolHide[form.dataset.rfont] == 1){
-        	form.innerHTML =""
+        	form.innerHTML ="";
         	var text = document.createElement("input");
         	text.type = "text";
         	text.size = "8"
@@ -54,14 +57,14 @@ function QuestMode (form){
         	var button = document.createElement("input");
         	button.type = "button";
         	button.value = " ";
-        	Questlang = Number(document.getElementById("QuestLang").value)
+        	Questlang = Number(document.getElementById("QuestLang").value);
         	switch(Questlang) {
             	case 0:
-            		var ques = ""
+            		var ques = "";
             		var cor = form.dataset.jp;
             	break;
             	case 1:
-            		var ques = ""
+            		var ques = "";
             		var cor = form.dataset.eng;
             	break;
             	case 2:
@@ -76,7 +79,7 @@ function QuestMode (form){
 
         	button.addEventListener("click",function(){check(cor, form, text.value);
         	});
-        	form.innerHTML = "<b>"  +  ques + "</b>"
+        	form.innerHTML = "<b>"  +  ques + "</b>";
         	form.insertBefore(text, null);
         	form.insertBefore(button, null);
         }

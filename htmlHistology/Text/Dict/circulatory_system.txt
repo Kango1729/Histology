@@ -1,0 +1,18 @@
+#循環系,circulatory system,topic#は#体液,body fluid,1#を決まった形で循環させる#器官系,organ system,0#である。#心血管系||血管系,cardiovascular system||blood vascular system,1#と#リンパ系||リンパ管系,lymphatic system||lymphatic vascular system,1#からなる。
+
+
+<h3>#循環系,circulatory system,4#の機能</h3>
+
+
+<h3>#心血管系||血管系,cardiovascular system||blood vascular system,3#の構成
+#心血管系||血管系,cardiovascular system||blood vascular system,3#は以下の構造から成る。
+⑴#心臓,heart,2#
+⑵#動脈,artery,2#
+⑶#静脈,vein,2#
+⑷#毛細血管,capillary,2#
+
+
+<h3>#リンパ系||リンパ管系,lymphatic system||lymphatic vascular system,3#の構成</h3>
+#リンパ系||リンパ管系,lymphatic system||lymphatic vascular system,3#は以下の構造から成る。
+⑴#毛細リンパ管,lymphatic capillary,2#
+⑵#集合リンパ管||,

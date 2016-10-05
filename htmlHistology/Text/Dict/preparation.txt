@@ -1,3 +1,4 @@
+
 #組織,tissue,4#を#顕微鏡,microscope,4#で観察する事には適切な処理が必要である。一般的な#明視野顕微鏡,bright field microscope,2#における処理は以下の通りである。
 ⑴#組織片,tissue slice,1#を#組織,tissue,4#から取り出す。
 ⑵#固定,fixation,1#により、#組織,tissue,4#の構造を保持する。
