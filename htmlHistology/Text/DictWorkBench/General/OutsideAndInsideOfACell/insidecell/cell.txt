@@ -1,0 +1,26 @@
+#細胞,cell,topic#は生物を構成する#機能的,functional,0##最小単位,smallest unit,0#である構造物である。英語語源は#ラテン語「貯蔵庫、小部屋」,cella,origin#である。
+以下は#真核細胞,eukaryote,0#についての話である。(cf.#原核細胞,prokaryote,0#)
+
+<h3>#細胞,cell,4#間の違い</h3>
+以降の項目で述べる、「#細胞,cell,4#の機能」や「#細胞,cell,4#の構成要素」において、体内のほとんど全ての#細胞,cell,4#は共通している。一方、その#細胞,cell,4#が必要とする機能や構成要素は、その#細胞,cell,4#が属す#組織,tissue,0#によって異なる。そのため#細胞,cell,4#が得意とする機能や豊富な構成要素、さらには#細胞,cell,4#の形状も細胞間の違いである。このような#細胞,cell,4#の特化を#細胞分化,cell differenciation,4#という。
+
+
+
+<h3>#細胞,cell,nucleus,4#の機能</h3>
+#細胞,cell,4#は以下の代表的な機能を持つ。例はそれに特化した#細胞,cell,nucleus,4#や#組織,tissue,4#を示す。
+⑴#細胞分裂,cell division,1#(例:#幹細胞,stem cell,2#による#細胞,cell,nucleus,4#数の維持)
+⑵#合成,synthesis,2#(例:#分泌上皮
+⑶#分解,decomposition,2#
+⑷#小胞輸送,vesicular transport,2#
+⑸#膜輸送,membrane transport,2#
+⑹#運動,movement,2#
+これらの機能の組み合わせにより、#細胞,cell,nucleus,4#は#収縮
+
+
+<h3>#細胞,cell,topic#の構成要素</h3>
+#細胞,cell,4#の構成要素は大きく分けて3つある。
+⑴#細胞膜||形質膜,cell membrane||plasmalemma||plasma membrane,1#の機能は#選択的な隔壁,selective barrier,2#である。
+⑵#核,nucleus,1#の機能は#遺伝情報,genetic information,2#である。
+⑶#細胞質,cytoplasm,1#はその他の部分であり、機能は様々である。
+
+
