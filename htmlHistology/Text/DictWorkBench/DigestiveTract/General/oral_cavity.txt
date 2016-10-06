@@ -1,0 +1,12 @@
+#口腔,oral cavity,topic#は頭部にある#腔,cavity,0#である。
+
+<h3>#口腔,oral cavity,4#の構成要素</h3>
+#口腔,oral cavity,4#の構成要素は以下の
+	⑴
+	
+<h3>#口腔,oral cavity,4#の機能</h3>
+
+
+<h2>#口腔,oral cavity,4#の#解剖学,anatomy,0#</h2>
+<h2>#口腔,oral cavity,4#の#組織学,histology,0#</h2>
+<h3>#口腔,oral cavity,4#の壁の構造</h3\>
