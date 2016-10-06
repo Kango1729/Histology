@@ -2,9 +2,9 @@
 
 <h3>#組織,tissue,4#の分類</h3>
 形態や組成に基づき、#組織,tissue,4#は#組織の4基本型,four basic types of tissue,1#に分類される。
-⑴#上皮組織,epithelial tissue,1#:#被覆,covering,2#と#分泌,excretion,2#を主に担う
-⑵#結合組織,connective tissue,1#:#支持,support,2#を主に担う
-⑶#筋組織,muscle tissue,1#:#運動,movement,2#を主に担う
-⑷#神経組織,nerve tissue,1#:#神経インパルス,nerve impulse,2#の伝達を主に担う
+	⑴#上皮組織,epithelial tissue,1#:#被覆,covering,2#と#分泌,excretion,2#を主に担う
+	⑵#結合組織,connective tissue,1#:#支持,support,2#を主に担う
+	⑶#筋組織,muscle tissue,1#:#運動,movement,2#を主に担う
+	⑷#神経組織,nerve tissue,1#:#神経インパルス,nerve impulse,2#の伝達を主に担う
 
 各#器官,organ,0#内の#組織,tissue,4#は実際にその#固有の機能,specific function,2#を担う#実質,parenchyma,1#と支持組織である#間質||支質,stroma,1#に分類される。

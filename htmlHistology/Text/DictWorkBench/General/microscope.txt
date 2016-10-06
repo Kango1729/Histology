@@ -7,13 +7,13 @@
 
 <h3>様々な#顕微鏡,microscope,4#</h3>
 #光学顕微鏡,light microscope,3#には幾つか種類がある。
-⑴#明視野顕微鏡,bright light microscope,2#
-⑵#共焦点顕微鏡,confocal microscope,2#
-⑶#蛍光顕微鏡,fluorescence microscope,2#
-⑷#偏光顕微鏡,polorizing microscope,2#
-⑸#位相差顕微鏡,phase contrast microscope,2#
-⑹#微分干渉顕微鏡,differential interference contrast microscope,2#
+	⑴#明視野顕微鏡,bright light microscope,2#
+	⑵#共焦点顕微鏡,confocal microscope,2#
+	⑶#蛍光顕微鏡,fluorescence microscope,2#
+	⑷#偏光顕微鏡,polorizing microscope,2#
+	⑸#位相差顕微鏡,phase contrast microscope,2#
+	⑹#微分干渉顕微鏡,differential interference contrast microscope,2#
 などがある。
 #電子顕微鏡,electron microscope,3#には2種類ある。
-⑴#透過型電子顕微鏡,transperant electron microscope,2#
-⑵#走査型電子顕微鏡,scanning electron microscope,2#
+	⑴#透過型電子顕微鏡,transperant electron microscope,2#
+	⑵#走査型電子顕微鏡,scanning electron microscope,2#

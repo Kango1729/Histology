@@ -3,8 +3,8 @@
 
 <h3>他分野との関係</h3>
 #組織学,histology,4#は多くの学問と繋がりをもつ。特に以下の2つは深い関わりがある。
-⑴#解剖学,anatomy,0#：#肉眼,bare eyes,1#で#巨視的構造,macrostructure,1#を観察する。一方#組織学,histology,4#は、#顕微鏡,microscope,1#で#微細構造,microstructure,3#を観察する。
-⑵#病理学,pathology,0#：#異常,abnormal,1#な#微細構造,microstructure,3#を観察する。一方#組織学,histology,4#は、#正常,normal,1#な#微細構造,microstructure,3#を観察する。
+	⑴#解剖学,anatomy,0#：#肉眼,bare eyes,1#で#巨視的構造,macrostructure,1#を観察する。一方#組織学,histology,4#は、#顕微鏡,microscope,1#で#微細構造,microstructure,3#を観察する。
+	⑵#病理学,pathology,0#：#異常,abnormal,1#な#微細構造,microstructure,3#を観察する。一方#組織学,histology,4#は、#正常,normal,1#な#微細構造,microstructure,3#を観察する。
 
 
 <h3>#組織学,histology,4#の研究方法</h3>
