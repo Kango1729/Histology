@@ -11,6 +11,17 @@
 	⑹#肛門,anal,1#:
 
 
+<h3>#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#の機能（#消化系,digestive system,0#での記載と同じである）</h3>
+#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#が#消化管内容物,digesta,4#を#吸収,absorption,3#するために持つ機能は
+以下の5つである。
+	⑴#機械的消化,mechanical digestion,1#:#物理的,physical,2#に#消化管内容物,digesta,4#を分解する。
+	⑵#化学的消化,chmical digestion,1#:#化学的,chemical,2#に#消化管内容物,digesta,4#を分解する。
+	⑶#摂取,ingestion,1#:食物を#内腔,lumen,2#に入れる。
+	⑷#運動,motility,1#は#消化管内容物,digesta,4#を#消化管,digestive tract||alimentary canal||gastrointestinal canal,3#内で移動させる。
+	⑸排泄,elimination,1#:#吸収,absorption,1#が出来なかった#消化管内容物,digesta,4#を#内腔,lumen,2#から出す。
+	
+
+<h2>#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#の#組織学,histology,4#</h2>
 <h3>#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#の壁の構造</h3>
 #消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#の壁が持つ層は内側から順に以下の4層である。
 	⑴#粘膜,mucosa,1#:#防御,protection,2#、#吸収,absosrption,2#、#分泌,secretion,2#を担う。
@@ -28,13 +39,3 @@
 	この層が持つ層は内側から順に以下の2種類の#組織,tissue,1#からなる層である。
 		1.#疎性結合組織,loose connective tissue,1#:
 		2.#中皮,mesothelium,1#:
-
-
-<h3>#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#の機能（#消化系,digestive system,0#での記載と同じである）</h3>
-#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#が#消化管内容物,digesta,4#を#吸収,absorption,3#するために持つ機能は
-以下の5つである。
-	⑴#機械的消化,mechanical digestion,1#:#物理的,physical,2#に#消化管内容物,digesta,4#を分解する。
-	⑵#化学的消化,chmical digestion,1#:#化学的,chemical,2#に#消化管内容物,digesta,4#を分解する。
-	⑶#摂取,ingestion,1#:食物を#内腔,lumen,2#に入れる。
-	⑷#運動,motility,1#は#消化管内容物,digesta,4#を#消化管,digestive tract||alimentary canal||gastrointestinal canal,3#内で移動させる。
-	⑸排泄,elimination,1#:#吸収,absorption,1#が出来なかった#消化管内容物,digesta,4#を#内腔,lumen,2#から出す。
