@@ -10,7 +10,22 @@
 <h2>#口腔,oral cavity,4#の#解剖学,anatomy,0#</h2>
 <h2>#口腔,oral cavity,4#の#組織学,histology,0#</h2>
 <h3>#口腔,oral cavity,4#の壁の構造</h3>
-#口腔,oral cavity,4#の#粘膜,mucosa,0#は以下の3種類であり、それに応じて、壁の構造は分類できる。
+#口腔,oral cavity,4#の壁が持つ層は内側から順に以下の2層である。
+	⑴#粘膜,mucosa,1#:
+	この層が持つ層は内側から順に以下の2層である。
+		1.#粘膜上皮,mucosal epithelium,1#:
+		2.#粘膜固有層,lamina propria,1#
+	⑵#粘膜下組織,submucosa,1#:
+
+#口腔,oral cavity,4#の#粘膜,mucosa,0#は区別され、その分類は以下の3つである。$出典 「人体組織学 消化器」p.1
 	⑴#咀嚼粘膜,masticatory mucosa,1#:
 	⑵#被蓋粘膜,lining mucosa,1#:
-	⑶#特殊粘膜,specialized mucosa,1#:
+	⑶#特殊粘膜,specialized mucosa,1#
+	
+<h3>#口腔,oral cavity,4#と一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#の壁の構造の比較<h3>
+#口腔,oral cavity,4#の壁の構造は一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,4#の壁の構造と異なる。
+具体的な相違点は、以下の2点である。
+	⑴#粘膜筋板,muscularis mucosae,3#の有無:有る(一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,4#)、無い(#口腔,oral cavity,4#)
+		この為、#口腔,oral cavity,4#の#粘膜固有層,lamina propria,3#は徐々に#粘膜下組織,submucosa,3#に移行する。
+	⑵#筋層,muscularis,3#以下の有無:有る(一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,4#)、無い(#口腔,oral cavity,4#)
+		
