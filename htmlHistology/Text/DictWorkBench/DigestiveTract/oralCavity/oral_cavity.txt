@@ -22,7 +22,7 @@
 	⑵#被蓋粘膜,lining mucosa,1#:
 	⑶#特殊粘膜,specialized mucosa,1#
 	
-<h3>#口腔,oral cavity,4#と一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,topic#の壁の構造の比較<h3>
+<h3>#口腔,oral cavity,4#と一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,4#の壁の構造の比較</h3>
 #口腔,oral cavity,4#の壁の構造は一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,4#の壁の構造と異なる。
 具体的な相違点は、以下の2点である。
 	⑴#粘膜筋板,muscularis mucosae,3#の有無:有る(一般的な#消化管,digestive tract||gastrointestinal tract||alimentary canal,4#)、無い(#口腔,oral cavity,4#)
