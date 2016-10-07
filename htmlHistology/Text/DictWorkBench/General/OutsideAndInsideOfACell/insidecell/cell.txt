@@ -10,7 +10,7 @@ basic,1#である構造物である。英語語源は#ラテン語「貯蔵庫�
 <h3>#細胞,cell,topic#の構成要素</h3>
 #細胞,cell,4#は以下の3つの構成要素からなる。
 ⑴#細胞膜||形質膜,cell membrane||plasmalemma||plasma membrane,1#の機能は#選択的な隔壁,selective barrier,2#である。
-⑵#核,nucleus,1#の機能は#遺伝情報,genetic information,2#である。
+⑵#核,nucleus,1#の機能は#遺伝情報,genetic information,0#の保存と伝達である。
 ⑶#細胞質,cytoplasm,1#はその他の部分であり、機能は様々である。
 特に#細胞質,cytoplasm,1#の中には
 ⑴#細胞質基質||サイトゾル,cytosol,1#という液体成分
