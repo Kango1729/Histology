@@ -17,9 +17,10 @@
     ⑷#rRNA,rRNA,2#、#tRNA,tRNA,2#の合成:
 
 
-<h2>#核,nucleus,4#の#組織学,histology,2#</h2>
+<h2>#核,nucleus,4#の#HE染色,HE stain,2#した#組織学,histology,2#</h2>
 <h3>#光学顕微鏡,light microscope,2#下の#核,nucleus,4#</h3>
-#核,nucleus,4#全体に広がる#染色質,chromatin#は#酸,acid,1#である#DNA,DNA,4#を含むため、#好塩基性,basophilic,1#である。特に強く染まるものは以下の2つである。
+#核,nucleus,4#全体に広がる#染色質,chromatin#は#酸,acid,1#である#DNA,DNA,4#を含むため、#好塩基性,basophilic,1#である。
+#核,nucleus,4#を観察するとき特に強く#好塩基性,basophilic,3#を示し、紫,purple,1#色の#ヘマトキシリン,hematoxylin,1#に濃く染まるものは以下の2つである。
     ⑴#核小体,nucleosome,1#:#rRNA,rRNA,1#に富む
     ⑵#異染色質||ヘテロクロマチン,heterochromatin,1#:#染色質,chromatin,4#が凝集したもの。（⇔#正染色質||ユークロマチン,euchromatin,1#）
 本来#細胞,cell,4#の形を決める重要な手掛かりとなる#細胞膜,plasma membrane,1#はよく染まらない。代わりに#核,nucleus,1#の形が手掛かりとなる。

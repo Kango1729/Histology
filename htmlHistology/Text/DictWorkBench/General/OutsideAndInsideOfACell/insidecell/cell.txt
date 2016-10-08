@@ -5,9 +5,9 @@ basic,1#である構造物である。英語語源は#ラテン語「貯蔵庫�
 
 <h3>#細胞,cell,4#の構成要素</h3>
 #細胞,cell,4#の構成要素は以下の3つである。
-⑴#細胞膜||形質膜,cell membrane||plasmalemma||plasma membrane,1#の機能は#選択的な隔壁,selective barrier,2#である。
-⑵#核,nucleus,1#の機能は#遺伝情報,genetic information,0#の保存と伝達である。
-⑶#細胞質,cytoplasm,1#はその他の部分であり、機能は様々である。
+    ⑴#細胞膜||形質膜,cell membrane||plasmalemma||plasma membrane,1#:#選択的な隔壁,selective barrier,2#
+    ⑵#核,nucleus,1#:#遺伝情報,genetic information,0#の保存と伝達
+    ⑶#細胞質,cytoplasm,1#:その他の部分
 特に#細胞質,cytoplasm,1#の中には
 ⑴#細胞質基質||サイトゾル,cytosol,1#という液体成分
 ⑵#細胞小器官,organelle,1#という構造物
@@ -25,8 +25,8 @@ basic,1#である構造物である。英語語源は#ラテン語「貯蔵庫�
 
 
 <h2>#細胞,cell,4#の#組織学,histology,2#</h2>
-<h3>#光学顕微鏡,light microscope,2#下の#細胞,cell,4#</h3>
-#HE染色,HE stain,2#した#標本,specimin,2#中の#細胞,cell,4#を#光学顕微鏡,light microscope,4#で観察するときに見える構造は以下の3つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。それぞれ#紫,purple,1#色の#ヘマトキシリン,hematoxylin,1#、#赤,red,1#色の#エオシン,eosin,1#が、に染まる。
+<h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#細胞,cell,4#</h3>
+#細胞,cell,4#を観察するときに見える構造は以下の3つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
     ⑴#核,nucleus,4#:#好塩基性,basophilic,1#
     ⑵#粗面小胞体,rough endoplasmic reticulum,4#:#好塩基性,basophilic,1#
     ⑶#ミトコンドリア,mitochondria,4#:#好酸性,acidophilic,1#
