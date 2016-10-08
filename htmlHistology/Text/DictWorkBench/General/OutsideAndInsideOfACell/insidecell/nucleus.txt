@@ -1,7 +1,15 @@
 #核,nucleus,topic#はその#細胞,cell,0#の#DNA,DNA,0#上の#遺伝情報,genetic,1#を内蔵、伝達する球状構造物である。英語語源は#ラテン語「木の実」,nux,origin#である。
 
 
-<h3>#核,nucleus,4#の構成要素</h3>
+<h3>基本情報</h3>
+漢字の読み方:かく
+英語カタカナ発音:ニュークレゥス
+英語語源:#ラテン語「木の実」,nux,origin#
+場所:#細胞,cell,4#内
+大きさ:3μm～10μｍ
+
+
+<h3>構成要素</h3>
 #核,nucleus,4#の構成要素は以下の4つである。
     ⑴#核膜,nuclear envelope,1#:#核,nucleus,4#と#細胞質,cytoplasm,0#を分ける二重の#膜,membrane,2#
     ⑵#染色質||クロマチン,chromatin,1#:#DNA,DNA,4#と#構造タンパク質,structual protein,2#の#核タンパク質複合体,nucleoprotein complex#
@@ -9,7 +17,7 @@
     ⑷#核質||核原形質,nucleoplasm,1#:#核,nucleus,4#内のその他の成分
 
 
-<h3>#核,nucleus,4#の機能</h3>
+<h3>機能</h3>
 #核,nucleus,4#の機能は以下の4つである。
     ⑴#DNA,DNA,4#の内蔵:
     ⑵#転写,transcription,1#:
@@ -17,8 +25,8 @@
     ⑷#rRNA,rRNA,2#、#tRNA,tRNA,2#の合成:
 
 
-<h2>#核,nucleus,4#の#HE染色,HE stain,2#した#組織学,histology,2#</h2>
-<h3>#光学顕微鏡,light microscope,2#下の#核,nucleus,4#</h3>
+<h2>#組織学,histology,2#</h2>
+<h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#核,nucleus,4#</h3>
 #核,nucleus,4#全体に広がる#染色質,chromatin#は#酸,acid,1#である#DNA,DNA,4#を含むため、#好塩基性,basophilic,1#である。
 #核,nucleus,4#を観察するとき特に強く#好塩基性,basophilic,3#を示し、紫,purple,1#色の#ヘマトキシリン,hematoxylin,1#に濃く染まるものは以下の2つである。
     ⑴#核小体,nucleosome,1#:#rRNA,rRNA,1#に富む

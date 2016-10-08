@@ -1,7 +1,15 @@
 #細胞質,cytoplasm,topic#は#細胞,cell,0#から#細胞膜,plasma membrane,0#と#核,nucleus,0#を除いた部分である。（#原形質,protoplasm,0#は#核,nucleus,4#も含めるため、#細胞質,cytoplasm,4#とは異なる）は英語語源は#ギリシャ語「容器」+英語「血漿」,kytos+plasma#である。
 
 
-<h3>#細胞質,cytoplasm,4#の構成要素</h3>
+<h3>基本情報</h3>
+漢字の読み方:さいぼうしつ
+英語カタカナ発音:サイトプラズム
+英語語源:#ギリシャ語「容器」+英語「血漿」,kytos+plasma#
+場所:#細胞,cell,4#内
+大きさ:5μｍ~100μｍ（#細胞,cell,4#と同じ）
+
+
+<h3>構成要素</h3>
 #細胞質,cytoplasm,4#の構成要素は以下の3つである。
     ⑴#細胞小器官,organelle,1#:#細胞質,cytoplasm,4#の中で特化した機能を持つ。
     #細胞小器官,organelle,3#の構成要素は以下の10個である。
@@ -19,10 +27,10 @@
     ⑶#細胞質基質||サイトゾル,cytosol,1#:
 
 
-<h3>#細胞質,cytoplasm,4#の機能</h3>
+<h3>機能</h3>
 #細胞質,cytoplasm,4#はそれぞれの特化した機能を持つ様々な#細胞小器官,organelle,3#と様々な#酵素,enzyme,2#を含む#細胞質基質||サイトゾル,cytosol,3#を持つため、その機能は多様である。
 
-<h2>#細胞質,cytoplasm,4#の#組織学,histology,0#</h2>
+<h2>#組織学,histology,0#</h2>
 <h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#細胞質,cytoplasm,4#</h3>
 #細胞質,cytoplasm,4#を観察するときに見える構造は以下の2つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
     ⑴#粗面小胞体,rough endoplasmic reticulum,4#:#好塩基性,basophilic,1#

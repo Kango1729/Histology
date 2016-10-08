@@ -1,6 +1,12 @@
 #組織学,histology,topic#は人体を構成する#組織,tissue,0#の#微細構造,microstructure,1#を観察し考察する学問である。英語語源は#ギリシャ語「組織、網目」,histo,origin#である。
 
 
+<h3>基本情報</h3>
+漢字の読み方:そしきがく
+英語カタカナ発音:ヒストロジー
+英語語源:#ギリシャ語「組織、網目」,histo,origin#
+
+
 <h3>他分野との関係</h3>
 #組織学,histology,4#は多くの学問と繋がりをもつ。特に以下の2つは深い関わりがある。
 	⑴#解剖学,anatomy,0#：#肉眼,bare eyes,1#で#巨視的構造,macrostructure,1#を観察する。一方#組織学,histology,4#は、#顕微鏡,microscope,1#で#微細構造,microstructure,3#を観察する。

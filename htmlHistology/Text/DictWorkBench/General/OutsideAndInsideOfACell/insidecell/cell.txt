@@ -1,10 +1,15 @@
-#細胞,cell,topic#は生物を構成する#機能的,functional,0#、#構造的,structural,0#な#最小単位||基本単位,smallest unit||
-basic,1#である構造物である。英語語源は#ラテン語「貯蔵庫、小部屋」,cella,origin#である。
+#細胞,cell,topic#は生物を構成する#機能的,functional,0#、#構造的,structural,0#な#最小単位||基本単位,smallest unit||basic unit,1#である構造物である。英語語源は#ラテン語「貯蔵庫、小部屋」,cella,origin#である。
 以下は#真核細胞,eukaryote,0#についての話である。(⇔#原核細胞,prokaryote,0#)
 
 
-<h3>#細胞,cell,4#の構成要素</h3>
-#細胞,cell,4#の構成要素は以下の3つである。
+<h3>基本情報</h3>
+漢字の読み方:さいぼう
+英語カタカナ発音:セル
+英語語源:#ラテン語「貯蔵庫、小部屋」,cella,origin#
+大きさ:5μm~100μｍ
+
+<h3>構成要素</h3>
+#構成要素は以下の3つである。
     ⑴#細胞膜||形質膜,cell membrane||plasmalemma||plasma membrane,1#:#選択的な隔壁,selective barrier,2#
     ⑵#核,nucleus,1#:#遺伝情報,genetic information,0#の保存と伝達
     ⑶#細胞質,cytoplasm,1#:その他の部分
@@ -14,7 +19,7 @@ basic,1#である構造物である。英語語源は#ラテン語「貯蔵庫�
 が存在する。
 
 
-<h3>#細胞,cell,nucleus,4#の機能</h3>
+<h3>機能</h3>
 #細胞,cell,4#の機能は以下の6つである。
 ⑴#細胞分裂,cell division,1#(例:#幹細胞,stem cell,2#が#細胞,cell,nucleus,4#数の維持する)
 ⑵#合成,synthesis,1#(例:#分泌上皮||腺上皮,seそncretory epithelium||glandular epithelium,2#が#分泌,secretion,2#物を作る)
@@ -24,7 +29,7 @@ basic,1#である構造物である。英語語源は#ラテン語「貯蔵庫�
 ⑹#運動,movement,1#(例:#筋組織,muscle tissue,2#が#収縮,contraction,2#する)
 
 
-<h2>#細胞,cell,4#の#組織学,histology,2#</h2>
+<h2>#組織学,histology,2#</h2>
 <h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#細胞,cell,4#</h3>
 #細胞,cell,4#を観察するときに見える構造は以下の3つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
     ⑴#核,nucleus,4#:#好塩基性,basophilic,1#

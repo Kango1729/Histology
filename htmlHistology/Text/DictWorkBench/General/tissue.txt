@@ -1,5 +1,12 @@
 #組織,tissue,topic#は#固有の機能,specific function,0#を共有する#細胞,cell,1#やそれに産生された#細胞外基質,extracellular matrix,1#の集団である。英語語源は#古フランス語「織られた」,tissu,origin#である。
 
+
+<h3>基本情報</h3>
+漢字の読み方:そしき
+英語カタカナ発音:ティッシュー
+英語語源:#古フランス語「織られた」,tissu,origin#
+
+
 <h3>#組織,tissue,4#の分類</h3>
 形態や組成に基づき、#組織,tissue,4#は#組織の4基本型,four basic types of tissue,1#に分類される。
 	⑴#上皮組織,epithelial tissue,1#:#被覆,covering,2#と#分泌,excretion,2#を主に担う

@@ -1,13 +1,18 @@
 #消化系,digestive system,topic#は#消化管内容物,digesta,2#を#消化,digestion,1#し、その中の#栄養,nutrition,0#を#吸収,absorption,1#するための#器官系,organ system,0#である。
 
 
-<h3>#消化系,digestive system,4#の構成要素<h3>
+<h3>基本情報</h3>
+漢字の読み方:しょうかけい
+英語カタカナ発音:ダイジェスティブ　システム
+
+
+<h3>構成要素<h3>
 #消化系,digestive system,4#の構成要素は以下の2つである。
 		⑴#消化管,digestive_tract||alimentary canal||gastrointestinal canal,1#は#消化管内容物,digesta,4#を#消化,digestion,3#、#吸収,absorption,3#する管である。
 	⑵#付属器官,associated organs,1#は#消化,digestion,3#を補助する#器官,organ,2#である。
 
 
-<h3>#消化系,digestive system,4#の機能</h3>
+<h3>機能</h3>
 #消化系,digestive system,4#が#消化管内容物,digesta,4#を#吸収,absorption,3#するために持つ機能は以下の5つである。
 	⑴#機械的消化,mechanical digestion,1#:#物理的,physical,2#に#消化管内容物,digesta,4#を分解する。
 	⑵#化学的消化,chmical digestion,1#:#化学的,chemical,2#に#消化管内容物,digesta,4#を分解する。
