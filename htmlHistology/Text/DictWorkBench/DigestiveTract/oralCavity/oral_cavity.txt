@@ -22,8 +22,8 @@
 #口腔,oral cavity,4#の壁が持つ層は内側から順に以下の2層である。
 	⑴#粘膜,mucosa,1#:
 	この層が持つ層は内側から順に以下の2層である。
-		1.#粘膜上皮,mucosal epithelium,1#:
-		2.#粘膜固有層,lamina propria,1#
+		⑴#粘膜上皮,mucosal epithelium,1#:
+		⑵#粘膜固有層,lamina propria,1#
 	⑵#粘膜下組織,submucosa,1#:
 
 #口腔,oral cavity,4#の#粘膜,mucosa,0#は区別され、その分類は以下の3つである。$出典 「人体組織学 消化器」p.1

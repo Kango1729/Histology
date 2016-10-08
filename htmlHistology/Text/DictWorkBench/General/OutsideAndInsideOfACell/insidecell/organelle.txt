@@ -1,0 +1,35 @@
+#細胞小器官,organelle,topic#は#細胞質,cytoplasm,0#内で特化した機能を持つ場所の総称である。英語語源は#英語「臓器」,organ,origin#である。
+
+
+<h3>基本情報</h3>
+漢字の読み方:さいぼうしょうきかん
+他の日本語名:細胞内小器官
+英語カタカナ発音:オーガネル
+英語語源:#英語「臓器」,organ,origin#
+場所:#細胞質,cytoplasm,4#内
+
+
+<h3>構成要素</h3>
+#細胞小器官,organelle,4#の構成要素は以下の10個である。
+    ⑴#リボソーム,ribosome,1#
+    ⑵#小胞体,endoplasmic reticulum,1#:#タンパク質,protein,2#や#脂質,lipid,2#の合成を行う#生体膜,biological membrane,2#の網状構造物。
+    ⑶#ゴルジ体,golgi apparatus,1#:#タンパク質,protein,2#の#修飾,modification,2#、#選別,sorting,2#、#梱包,packaging#を行う#生体膜,biological membrane,4#の構造物。
+    ⑷#分泌顆粒||分泌小胞,secretory granule||secretory vesicle,1#:
+    ⑸#エンドソーム,endosome,1#
+    ⑹#ミトコンドリア,mitochondria,1#
+    ⑺#リソソーム,lysosome,1#
+    ⑻#プロテアソーム,proteasome,1#
+    ⑼#ペルオキシソーム,peroxisome,1#
+    ⑽#細胞骨格,cytoskeleton,1#:
+
+
+<h3>機能</h3>
+#細胞小器官,organelle,4#はそれぞれが特化した機能を持つため多様である。それぞれの機能は「構成要素」に書かれている。
+
+
+<h2>#組織学,histology,2#</h2>
+<h2>#組織学,histology,2#</h2>
+<h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#細胞小器官,organelle,4#</h3>
+#細胞小器官,organelle,4#を観察するときに見える構造は以下の2つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
+    ⑴#粗面小胞体,rough endoplasmic reticulum,4#:#好塩基性,basophilic,1#
+    ⑵#ミトコンドリア,mitochondria,4#:#好酸性,acidophilic,1#

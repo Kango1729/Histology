@@ -13,16 +13,16 @@
 #細胞質,cytoplasm,4#の構成要素は以下の3つである。
     ⑴#細胞小器官,organelle,1#:#細胞質,cytoplasm,4#の中で特化した機能を持つ。
     #細胞小器官,organelle,3#の構成要素は以下の10個である。
-        1.#リボソーム,ribosome,1#
-        2.#小胞体,endoplasmic reticulum,1#:#タンパク質,protein,2#や#脂質,lipid,2#の合成を行う#生体膜,biological membrane,2#の網状構造物。
-        3.#ゴルジ体,golgi apparatus,1#:#タンパク質,protein,2#の#修飾,modification,2#、#選別,sorting,2#、#梱包,packaging#を行う#生体膜,biological membrane,4#の構造物。
-        4.#分泌顆粒||分泌小胞,secretory granule||secretory vesicle,1#:
-        5.#エンドソーム,endosome,1#
-        6.#ミトコンドリア,mitochondria,1#
-        7.#リソソーム,lysosome,1#
-        8.#プロテアソーム,proteasome,1#
-        9.#ペルオキシソーム,peroxisome,1#
-        10.#細胞骨格,cytoskeleton,1#:
+        ⑴#リボソーム,ribosome,1#
+        ⑵#小胞体,endoplasmic reticulum,1#:#タンパク質,protein,2#や#脂質,lipid,2#の合成を行う#生体膜,biological membrane,2#の網状構造物。
+        ⑶#ゴルジ体,golgi apparatus,1#:#タンパク質,protein,2#の#修飾,modification,2#、#選別,sorting,2#、#梱包,packaging#を行う#生体膜,biological membrane,4#の構造物。
+        ⑷#分泌顆粒||分泌小胞,secretory granule||secretory vesicle,1#:
+        ⑸#エンドソーム,endosome,1#
+        ⑹#ミトコンドリア,mitochondria,1#
+        ⑺#リソソーム,lysosome,1#
+        ⑻#プロテアソーム,proteasome,1#
+        ⑼#ペルオキシソーム,peroxisome,1#
+        ⑽#細胞骨格,cytoskeleton,1#:
     ⑵#封入体,inclusion,1#:
     ⑶#細胞質基質||サイトゾル,cytosol,1#:
 

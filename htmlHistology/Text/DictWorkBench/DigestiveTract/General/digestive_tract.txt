@@ -32,16 +32,16 @@
 #消化管,digestive tract,4#の壁は内側から順に以下の4層を持つ。
 	⑴#粘膜,mucosa,1#:#防御,protection,2#、#吸収,absosrption,2#、#分泌,secretion,2#を担う。
 	この層が持つ層は内側から順に以下の3層である。
-		1.#粘膜上皮,mucosal epithelium,1#:
-		2.#粘膜固有層,lamina propria,1#:
-		3.#粘膜筋板,muscularis mucosae,1#:
+		⑴#粘膜上皮,mucosal epithelium,1#:
+		⑵#粘膜固有層,lamina propria,1#:
+		⑶#粘膜筋板,muscularis mucosae,1#:
 	⑵#粘膜下組織,submucosa,1#:
 	⑶#筋層,muscularis externa,1#:
 	この層が持つ層は内側から順に以下の3層である。
-		1.#内輪筋層,circularly oriented layer,1#:
-		2.#筋層間神経叢||アウエルバッハ神経叢,myenteric plexus||Auerbachs layer,1#:
-		3.#,longitudinally oriented layer,1#:
+		⑴#内輪筋層,circularly oriented layer,1#:
+		⑵#筋層間神経叢||アウエルバッハ神経叢,myenteric plexus||Auerbachs layer,1#:
+		⑶#,longitudinally oriented layer,1#:
 	⑷#漿膜,serosa,1#:
 	この層が持つ層は内側から順に以下の2種類の#組織,tissue,1#からなる層である。
-		1.#疎性結合組織,loose connective tissue,1#:
-		2.#中皮,mesothelium,1#:
+		⑴#疎性結合組織,loose connective tissue,1#:
+		⑵#中皮,mesothelium,1#:
