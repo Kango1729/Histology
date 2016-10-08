@@ -1,0 +1,12 @@
+#細胞質,cytoplasm,topic#は#細胞,cell,0#から#細胞膜,plasma membrane,0#と#核,nucleus,0#を除いた部分である。（#原形質,protoplasm,0#は#核,nucleus,4#も含めるため、#細胞質,cytoplasm,4#とは異なる）は英語語源は#ギリシャ語「容器」+英語「血漿」,kytos+plasma#である。
+
+
+<h3>#細胞質,cytoplasm,4#の構成要素</h3>
+#細胞質,cytoplasm,4#の構成要素は以下の
+    ⑴#細胞小器官,organelle,1#
+
+
+<h3>#細胞質,cytoplasm,4#の機能</h3>
+
+<h2>#細胞質,cytoplasm,4#の#組織学,histology,0#</h2>
+<h3>#光学顕微鏡,light microscope,0#下の#細胞質,cytoplasm,4#</h3>
