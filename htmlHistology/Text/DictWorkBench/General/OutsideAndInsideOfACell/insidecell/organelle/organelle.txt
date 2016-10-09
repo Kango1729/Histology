@@ -27,7 +27,7 @@
 #細胞小器官,organelle,4#はそれぞれが特化した機能を持つため多様である。それぞれの機能は「構成要素」に書かれている。
 
 
-<h2>#組織学,histology,2#</h2>
+
 <h2>#組織学,histology,2#</h2>
 <h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#細胞小器官,organelle,4#</h3>
 #細胞小器官,organelle,4#を観察するときに見える構造は以下の2つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
