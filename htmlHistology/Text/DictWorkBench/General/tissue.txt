@@ -1,4 +1,4 @@
-#組織,tissue,topic#は#固有の機能,specific function,0#を共有する#細胞,cell,1#やそれに産生された#細胞外基質,extracellular matrix,1#の集団である。英語語源は#古フランス語「織られた」,tissu,origin#である。
+#組織,tissue,topic#は#固有の機能,specific function,0#を共有する#細胞,cell,1#やそれに産生された#細胞外基質,extracellular matrix,1#の集団である。
 
 
 <h3>基本情報</h3>

@@ -1,4 +1,4 @@
-#組織学,histology,topic#は人体を構成する#組織,tissue,0#の#微細構造,microstructure,1#を観察し考察する学問である。英語語源は#ギリシャ語「組織、網目」,histo,origin#である。
+#組織学,histology,topic#は人体を構成する#組織,tissue,0#の#微細構造,microstructure,1#を観察し考察する学問である。
 
 
 <h3>基本情報</h3>

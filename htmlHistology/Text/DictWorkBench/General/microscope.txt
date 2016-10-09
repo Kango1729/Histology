@@ -1,4 +1,4 @@
-#顕微鏡,microscope,topic#は拡大する事で#微細構造,microstructure,0#を確認する装置である。英語語源は#英語「小さい＋見る」,micro + scope,origin#である。
+#顕微鏡,microscope,topic#は拡大する事で#微細構造,microstructure,0#を確認する装置である。
 
 
 <h3>基本情報</h3>
