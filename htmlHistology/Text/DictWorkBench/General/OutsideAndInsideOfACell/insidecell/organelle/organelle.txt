@@ -11,7 +11,7 @@
 
 <h3>構成要素</h3>
 #細胞小器官,organelle,4#の構成要素は以下の10個である。
-    ⑴#リボソーム,ribosome,1#
+    ⑴#リボソーム,ribosome,1#:#翻訳,translate,0#により#mRNA,mRNA,0#に対応する#タンパク質,protein,0#を合成する構造物。
     ⑵#小胞体,endoplasmic reticulum,1#:#タンパク質,protein,2#や#脂質,lipid,2#の合成を行う#生体膜,biological membrane,2#の網状構造物。
     ⑶#ゴルジ体,golgi apparatus,1#:#タンパク質,protein,2#の#修飾,modification,2#、#選別,sorting,2#、#梱包,packaging#を行う#生体膜,biological membrane,4#の構造物。
     ⑷#分泌顆粒||分泌小胞,secretory granule||secretory vesicle,1#:
