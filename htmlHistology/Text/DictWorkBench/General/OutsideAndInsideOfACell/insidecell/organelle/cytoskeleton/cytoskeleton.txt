@@ -1,0 +1,18 @@
+#細胞骨格,cytoskeleton,topic#は#細胞,cell,0#の形を維持、#細胞,cell,4#の移動、#細胞内輸送,intracellular transport,0#を担う線維状、管状の構造物の総称である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:さいぼうこっかく
+英語カタカナ発音:サイトスケルトン
+英語語源:#ギリシャ語「容器」+英語「骨格」,kytos+skeleton,origin#
+場所:#細胞質,cytoplasm,4#内
+大きさ:直径5nm~25nm
+種類:大きい順に以下の3種類が存在する。
+    ⑴#微小管,microtubule,1#:
+    ⑵#中間径フィラメント,intermediate filament,1#:
+    ⑶#ミクロフィラメント||アクチンフィラメント,microfilament||actin filament,1#:
+構成要素:それぞれの細胞骨格はそれぞれ異なる#モノマー,monomer,2#が構成要素である。
+機能:以下の主要な3機能を持つ。
+    ⑴#細胞,cell,4#の形の維持
+    ⑵#細胞,cell,4#の移動
+    ⑶#細胞内輸送,intracellular transport,0#
