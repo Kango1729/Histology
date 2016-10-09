@@ -29,7 +29,7 @@
 
 
 <h2>#組織学,histology,2#</h2>
-<h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#細胞小器官,organelle,4#</h3>
+<h3>#光学顕微鏡,light microscope,2#下の#細胞小器官,organelle,4#</h3>
 #細胞小器官,organelle,4#を観察するときに見える構造は以下の2つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
     ⑴#粗面小胞体,rough endoplasmic reticulum,4#:#好塩基性,basophilic,1#
     ⑵#ミトコンドリア,mitochondria,4#:#好酸性,acidophilic,1#
