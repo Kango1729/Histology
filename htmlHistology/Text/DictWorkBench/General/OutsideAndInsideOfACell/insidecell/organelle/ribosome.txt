@@ -1,0 +1,25 @@
+#リボソーム,ribosome,topic#は#mRNA,mRNA,0#に対応する#タンパク質,protein,0#を合成する構造物である。
+以下は#真核細胞,eukaryote,0#についての話である。(⇔#原核細胞,prokaryote,0#)
+
+<h3>基本情報</h3>
+英語カタカナ発音:リボソーム
+英語語源:#英語「リボース」+ギリシャ語「体」,ribose+soma,origin#
+大きさ：0.0025μm
+場所:#細胞質,cytoplasm,0#内
+
+<h3>構成要素</h3>
+#リボソーム,ribosome,4#の構成要素は以下の2つである。
+    ⑴#大サブユニット,large subunit,1#:
+    ⑵#小サブユニット,small subunit,1#:
+これらはいずれの構成要素も以下の2つである。
+    ⑴#rRNA,rRNAl,1#:
+    ⑵#タンパク質,protein,1#:
+
+
+<h3>機能</h3>
+#リボソーム,ribosome,4#の機能は以下の1つである。
+    ⑴#翻訳,translation,1#:#mRNA,mRNA,4#に対応する#タンパク質,protein,4#の合成をする
+
+<h2>#組織学,histology,2#</h2>
+<h3>#光学顕微鏡,light microscope,2#下の#リボソーム,ribosome,4#</h3>
+#リボソーム,ribosome,4#の大きさ（0.0025μm）は#光学顕微鏡,light microscope,4#の#解像度||分解能,resolution,1#（0.2μｍ）より小さいため、観察することはできない。しかし、#タンパク質,protein,4#の合成が盛んで#リボソーム,ribosome,4#が多い#細胞質,cytoplasm,4#は#好塩基性,basophilic,1#を示す。
