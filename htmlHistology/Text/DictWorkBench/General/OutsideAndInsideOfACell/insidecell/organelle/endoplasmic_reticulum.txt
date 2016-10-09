@@ -1,0 +1,16 @@
+#小胞体,endoplasmic reticulum,topic#は#タンパク質,protein,2#や#脂質,lipid,2#の合成を行う#生体膜,biological membrane,2#の網状構造物である。
+
+<h2>基本情報</h2>
+英語カタカナ発音:エンドプラズミック　レティキュラム
+他の英語名:ER（略称）
+英語語源:#ギリシャ語「の中に」+英語「血漿」/ラテン語「網」,endo+plasma/rete,origin#
+場所:#細胞質,cytoplasm,0#内
+種類:以下の2種類が存在する。
+    ⑴#粗面小胞体,rough endoplasmic reticulum,1#:
+    ⑵#滑面小胞体,smooth endoplasmic reticulum,1#:
+構成要素:以下の2構成要素を持つ。
+    ⑴#生体膜,plasma membrane,1#:#小胞体,endoplasmic reticulum,4#を包む。
+    ⑵#槽,cisterna,1#:
+機能:以下の2機能を持つ。
+    ⑴#タンパク質,protein,1#の合成:#粗面小胞体,rough endoplasmic reticulum,3#で行われる。
+    ⑵#脂質,lipid,1#の合成:#滑面小胞体,smooth endoplasmic reticulum,3#で行われる。
