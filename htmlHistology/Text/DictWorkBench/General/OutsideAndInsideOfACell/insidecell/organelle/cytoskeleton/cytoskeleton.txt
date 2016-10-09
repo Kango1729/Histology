@@ -1,4 +1,4 @@
-#細胞骨格,cytoskeleton,topic#は#細胞,cell,0#の形を維持、#細胞,cell,4#の移動、#細胞内輸送,intracellular transport,0#を担う線維状、管状の構造物の総称である。
+#細胞骨格,cytoskeleton,topic#は#細胞,cell,0#の形を維持、#細胞,cell,4#の運動、#細胞内輸送,intracellular transport,0#などを担う線維状、管状の構造物の総称である。
 
 
 <h2>基本情報</h2>
@@ -11,8 +11,8 @@
     ⑴#微小管,microtubule,1#:
     ⑵#中間径フィラメント,intermediate filament,1#:
     ⑶#ミクロフィラメント||アクチンフィラメント,microfilament||actin filament,1#:
-構成要素:それぞれの細胞骨格はそれぞれ異なる#モノマー,monomer,2#が構成要素である。
+構成要素:それぞれの細胞骨格はそれぞれ異なる基礎単位が構成要素である。
 機能:以下の主要な3機能を持つ。
     ⑴#細胞,cell,4#の形の維持
-    ⑵#細胞,cell,4#の移動
+    ⑵#細胞,cell,4#の運動
     ⑶#細胞内輸送,intracellular transport,0#
