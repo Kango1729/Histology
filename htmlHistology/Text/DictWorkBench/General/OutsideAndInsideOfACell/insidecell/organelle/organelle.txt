@@ -1,31 +1,25 @@
 #細胞小器官,organelle,topic#は#細胞質,cytoplasm,0#内で特化した機能を持つ場所の総称である。
 
 
-<h3>基本情報</h3>
+<h2>基本情報</h2>
 漢字の読み方:さいぼうしょうきかん
 他の日本語名:細胞内小器官
 英語カタカナ発音:オーガネル
 英語語源:#英語「臓器」,organ,origin#
 場所:#細胞質,cytoplasm,4#内
-
-
-<h3>構成要素</h3>
-#細胞小器官,organelle,4#の構成要素は以下の10個である。
-    ⑴#リボソーム,ribosome,1#:#翻訳,translate,0#により#メッセンジャーRNA,messengerRNA,0#に対応する#タンパク質,protein,0#を合成する構造物。
-    ⑵#小胞体,endoplasmic reticulum,1#:#タンパク質,protein,2#や#脂質,lipid,2#の合成を行う#生体膜,biological membrane,2#の網状構造物。
-    ⑶#ゴルジ体,golgi apparatus,1#:#タンパク質,protein,2#の#修飾,modification,2#、#選別,sorting,2#、#梱包,packaging#を行う#生体膜,biological membrane,4#の構造物。
-    ⑷#分泌顆粒||分泌小胞,secretory granule||secretory vesicle,1#:
-    ⑸#エンドソーム,endosome,1#
-    ⑹#ミトコンドリア,mitochondria,1#
-    ⑺#リソソーム,lysosome,1#
-    ⑻#プロテアソーム,proteasome,1#
-    ⑼#ペルオキシソーム,peroxisome,1#
+種類:以下の10種類が存在する。
+    ⑴#小胞体,endoplasmic reticulum,1#:#タンパク質,protein,2#や#脂質,lipid,2#の合成を行う#生体膜,biological membrane,2#の網状構造物。
+    ⑵#ゴルジ体,golgi apparatus,1#:#タンパク質,protein,2#の#修飾,modification,2#、#選別,sorting,2#、#梱包,packaging#を行う#生体膜,biological membrane,4#の構造物。
+    ⑶#分泌顆粒||分泌小胞,secretory granule||secretory vesicle,1#:
+    ⑷#エンドソーム,endosome,1#
+    ⑸#ミトコンドリア,mitochondria,1#
+    ⑹#リソソーム,lysosome,1#
+    ⑺#プロテアソーム,proteasome,1#
+    ⑻#ペルオキシソーム,peroxisome,1#
+    ⑼#リボソーム,ribosome,1#:#翻訳,translate,0#により#メッセンジャーRNA,messengerRNA,0#に対応する#タンパク質,protein,0#を合成する構造物。
     ⑽#細胞骨格,cytoskeleton,1#:
-
-
-<h3>機能</h3>
-#細胞小器官,organelle,4#はそれぞれが特化した機能を持つため多様である。それぞれの機能は「構成要素」に書かれている。
-
+構成要素:それぞれの構成要素を持つ。
+機能:それぞれの機能を持つ。
 
 
 <h2>#組織学,histology,2#</h2>
