@@ -13,22 +13,23 @@
 #核,nucleus,4#の構成要素は以下の4つである。
     ⑴#核膜,nuclear envelope,1#:#核,nucleus,4#と#細胞質,cytoplasm,0#を分ける二重の#膜,membrane,2#
     ⑵#染色質||クロマチン,chromatin,1#:#DNA,DNA,4#と#構造タンパク質,structual protein,2#の#核タンパク質複合体,nucleoprotein complex#
-    ⑶#核小体,nucleolus,1#:#rRNA,rRNA,2#の合成の場
+    ⑶#核小体,nucleolus,1#:#リボソームRNA,ribosomalRNA,4#の合成の場
     ⑷#核質||核原形質,nucleoplasm,1#:#核,nucleus,4#内のその他の成分
 
 
 <h3>機能</h3>
-#核,nucleus,4#の機能は以下の4つである。
+#核,nucleus,4#の機能は以下の5つである。
     ⑴#DNA,DNA,4#の内蔵:
     ⑵#転写,transcription,1#:
     ⑶#DNAの複製,DNA replication,1#:
-    ⑷#rRNA,rRNA,2#、#tRNA,tRNA,2#の合成:
+    ⑷#リボソームRNA,ribosomalRNA,1#の合成:
+    ⑸#転移RNA,transferRNA,1#の合成:
 
 
 <h2>#組織学,histology,2#</h2>
 <h3>#光学顕微鏡,light microscope,2#下の#核,nucleus,4#</h3>
 #核,nucleus,4#全体に広がる#染色質,chromatin#は#酸,acid,1#である#DNA,DNA,4#を含むため、#好塩基性,basophilic,1#である。
 #核,nucleus,4#を観察するとき特に強く#好塩基性,basophilic,3#を示すものは以下の2つである。
-    ⑴#核小体,nucleosome,1#:#rRNA,rRNA,1#に富む
+    ⑴#核小体,nucleosome,1#:#リボソームRNA,ribosomalRNA,4#に富む
     ⑵#異染色質||ヘテロクロマチン,heterochromatin,1#:#染色質,chromatin,4#が凝集したもの。（⇔#正染色質||ユークロマチン,euchromatin,1#）
 本来#細胞,cell,4#の形を決める重要な手掛かりとなる#細胞膜,plasma membrane,1#はよく染まらない。代わりに#核,nucleus,1#の形が手掛かりとなる。
