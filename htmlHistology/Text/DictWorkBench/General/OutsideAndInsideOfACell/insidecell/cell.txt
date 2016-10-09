@@ -30,12 +30,12 @@
 
 
 <h2>#組織学,histology,2#</h2>
-<h3>#光学顕微鏡,light microscope,2#下の#HE染色,HE stain,2#した#細胞,cell,4#</h3>
+<h3>#光学顕微鏡,light microscope,2#下の#細胞,cell,4#</h3>
 #細胞,cell,4#を観察するときに見える構造は以下の3つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
     ⑴#核,nucleus,4#:#好塩基性,basophilic,1#
     ⑵#粗面小胞体,rough endoplasmic reticulum,4#:#好塩基性,basophilic,1#
     ⑶#ミトコンドリア,mitochondria,4#:#好酸性,acidophilic,1#
-本来#細胞,cell,4#の形を決める重要な手掛かりとなる#細胞膜,plasma membrane,1#はよく染まらない。代わりに#核,nucleus,1#の形が手掛かりとなる。
+本来#細胞,cell,4#の形を決める重要な手掛かりとなる#細胞膜,plasma membrane,1#は観察しにくい。代わりに#核,nucleus,1#の形が手掛かりとなる。
 
 
 <h2>#細胞,cell,4#の#発生学,embryology,0#</h2>
