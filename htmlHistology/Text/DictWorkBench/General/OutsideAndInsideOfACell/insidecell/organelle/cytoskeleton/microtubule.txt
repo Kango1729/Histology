@@ -1,0 +1,25 @@
+#微小管,microtubule,topic#は#細胞,cell,0#の形を維持、#細胞,cell,4#の運動、#細胞内輸送,intracellular transport,0#を担う管状の#細胞骨格,cytoskeleton,0#である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:びしょうかん
+英語カタカナ発音:マイクロチュービュル
+英語語源:#英語「小さい」+ラテン語「管」,micro+tubus,origin#
+場所:#細胞質,cytoplasm,4#内
+大きさ:直径25nm
+構成要素:#重合体,polymer,0#であり、基本単位は以下の2構成要素からなる#ヘテロダイマー,heterodimer,0#である。
+    ⑴#αチューブリン,alpha tubulin,1#:
+    ⑵#βチューブリン,beta tubulin,1#:
+機能:以下の5機能を持つ。
+    ⑴#細胞,cell,4#の形の維持
+    ⑵#細胞,cell,4#の運動
+    ⑶#細胞内輸送,intracellular transport,0#
+    ⑷#紡錘体,spindle,0#の形成
+    ⑸#線毛,cilia,0#や#鞭毛,villus,0#の運動
+
+
+<h2>#細胞生物学,cell biology,0#</h2>
+<h3>#微小管,microtubule,4#上の#細胞内輸送,intracellular transport,4#</h3>
+#微小管,microtubule,4#上の#モータータンパク質,motor protein,0#は以下の2種類である。
+    ⑴#キネシン,kinesin,1#:#順行性輸送,anterograte transport,2#を担う。
+    ⑵#細胞質ダイニン,cytoplasmic dynein,1#:#逆行性輸送,retrograte transport,2#を担う。

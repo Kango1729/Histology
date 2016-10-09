@@ -1,0 +1,21 @@
+#ミクロフィラメント,microfilament,topic#は#細胞,cell,0#の形を維持、#細胞,cell,4#の運動、#細胞内輸送,intracellular transport,0#を担う線維状の#細胞骨格,cytoskeleton,0#である。
+
+
+<h2>基本情報</h2>
+他の日本語名:アクチンフィラメント
+英語カタカナ発音:マイクロフィラメント
+英語語源:#英語「小さい」+英語「線維」,micro+filament,origin#
+場所:#細胞質,cytoplasm,4#内
+大きさ:直径5nm~7nm
+構成要素:#重合体,polymer,0#であり、基本単位は以下の1構成要素からなる#モノマー,monomer,0#である。
+    ⑴#G-アクチン,G actin,1#:
+機能:以下の3機能を持つ。
+    ⑴#細胞,cell,4#の形の維持
+    ⑵#細胞,cell,4#の運動
+    ⑶#細胞内輸送,intracellular transport,0#
+
+
+<h2>#細胞生物学,cell biology,0#</h2>
+<h3>#ミクロフィラメント,microfilament,4#上の#細胞内輸送,intracellular transport,4#</h3>
+#ミクロフィラメント,microfilament,4#上の#モータータンパク質,motor protein,0#は以下の1種類である。
+    ⑴#ミオシン,myosin,1#
