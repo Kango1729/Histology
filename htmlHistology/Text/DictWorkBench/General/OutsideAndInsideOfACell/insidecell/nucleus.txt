@@ -1,4 +1,4 @@
-#核,nucleus,topic#はその#細胞,cell,0#の#DNA,DNA,0#上の#遺伝情報,genetic,1#を内蔵、伝達する球状構造物である。英語語源は#ラテン語「木の実」,nux,origin#である。
+#核,nucleus,topic#はその#細胞,cell,0#の#DNA,DNA,0#上の#遺伝情報,genetic,1#を内蔵、伝達する球状構造物である。
 
 
 <h3>基本情報</h3>

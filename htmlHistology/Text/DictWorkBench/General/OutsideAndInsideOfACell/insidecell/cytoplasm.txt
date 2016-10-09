@@ -1,4 +1,4 @@
-#細胞質,cytoplasm,topic#は#細胞,cell,0#から#細胞膜,plasma membrane,0#と#核,nucleus,0#を除いた部分である。（#原形質,protoplasm,0#は#核,nucleus,4#も含めるため、#細胞質,cytoplasm,4#とは異なる）は英語語源は#ギリシャ語「容器」+英語「血漿」,kytos+plasma#である。
+#細胞質,cytoplasm,topic#は#細胞,cell,0#から#細胞膜,plasma membrane,0#と#核,nucleus,0#を除いた部分である。（#原形質,protoplasm,0#は#核,nucleus,4#も含めるため、#細胞質,cytoplasm,4#とは異なる）
 
 
 <h3>基本情報</h3>

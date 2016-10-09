@@ -1,4 +1,4 @@
-#細胞,cell,topic#は生物を構成する#機能的,functional,0#、#構造的,structural,0#な#最小単位||基本単位,smallest unit||basic unit,1#である構造物である。英語語源は#ラテン語「貯蔵庫、小部屋」,cella,origin#である。
+#細胞,cell,topic#は生物を構成する#機能的,functional,0#、#構造的,structural,0#な#最小単位||基本単位,smallest unit||basic unit,1#である構造物である。
 以下は#真核細胞,eukaryote,0#についての話である。(⇔#原核細胞,prokaryote,0#)
 
 
