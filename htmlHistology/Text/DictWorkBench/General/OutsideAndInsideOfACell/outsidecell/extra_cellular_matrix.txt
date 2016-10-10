@@ -23,3 +23,10 @@
     ⑴#細胞,cell,4#の保持
     ⑵#体液,body fluid,2#の保持
     ⑶#体液,body fluid,4#の移動のための空間
+
+
+<h2>#細胞生物学,cell biology,0#</h2>
+<h3>#光学顕微鏡,light microscope,2#下の#細胞外基質,extracellular matrix,4#</h3>
+#細胞外基質,extracellular matrix,4#を観察するときに見える構造は以下の2つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
+    ⑴#グリコサミノグリカン,glycosaminoglycan,4#:#好塩基性,basophilic,1#
+    ⑵#コラーゲン,collagen,4#:#好酸性,basophilic,1#
