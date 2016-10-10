@@ -3,8 +3,10 @@
 
 <h2>基本情報</h2>
 漢字の読み方:しょうかかん
+他の日本語名:#胃腸管,gastrointestinal tract,otherjp#
 英語カタカナ発音:ダイジェスティブ　トラクト
-他の英語名:digestive tract/alimentary canal
+他の英語名:#胃腸管,gastrointestinal tract,othereng#・#消化管,alimentary canal,otherjp#
+英語の略称:#GI tract,gastrointestinal tract,abbeng#
 大きさ:全長9ｍ
 構成要素:#口側,adoral,2#から順に以下の6要素である。
 		⑴#口腔,oral cavity,1#:

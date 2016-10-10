@@ -18,4 +18,4 @@
 
 
 <h3>#組織学,histology,4#の概観</h3>
-人体は、#細胞,cell,1#とそれに産生される#細胞外基質,extracellular matrix,1#からなる。#組織,tissue,0#は#固有の機能,specific function,4#を共有する#細胞,cell,3#やそれに産生された#細胞外基質,extracellular matrix,3#の集団である。形態や組成に基づき、#組織,tissue,4#は#組織の4基本型,four basic types of tissue,1#に分類される。
+人体は、#細胞,cell,1#とそれに産生される#細胞外基質,extracellular matrix,1#、液体成分である#体液,body fluid,1#からなる。#組織,tissue,0#は#固有の機能,specific function,4#を持つ人体構造の単位である。形態や組成に基づき、#組織,tissue,4#は#組織の4基本型,four basic types of tissue,1#に分類される。

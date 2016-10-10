@@ -2,7 +2,7 @@
 
 <h2>基本情報</h2>
 英語カタカナ発音:エンドプラズミック　レティキュラム
-他の英語名:ER（略称）
+英語の略称:#ER,endoplasmic reticulum,abbeng#
 英語語源:#ギリシャ語「の中に」+英語「血漿」/ラテン語「網」,endo+plasma/rete,origin#
 場所:#細胞質,cytoplasm,0#内
 種類:以下の2種類が存在する。

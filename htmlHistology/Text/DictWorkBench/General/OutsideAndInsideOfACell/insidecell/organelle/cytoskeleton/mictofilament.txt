@@ -2,8 +2,9 @@
 
 
 <h2>基本情報</h2>
-他の日本語名:アクチンフィラメント
+他の日本語名:#アクチンフィラメント,actin filament,otherjp#
 英語カタカナ発音:マイクロフィラメント
+他の英語名:#アクチンフィラメント,actinfilament,othereng#
 英語語源:#英語「小さい」+英語「線維」,micro+filament,origin#
 場所:#細胞質,cytoplasm,4#内
 大きさ:直径5nm~7nm
