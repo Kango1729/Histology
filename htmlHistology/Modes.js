@@ -7,30 +7,19 @@ function ReadMode(form){
 }
 function ReadForm(form, Color){
         var boolShow = {"0":3,"1":3,"2":3,"3":0,"4":0,"topic":4,"origin":4,"otherjp":1,"othereng":2}
-			    switch (boolShow[form.dataset.rfont])) {
-        case 0://Number(document.getElementById("ReadLang").value
-            switch (Number(document.getElementById("ReadLang").value) {
-                case 0:
-                    show = form.dataset.jp;
-                    break;
-                case 1:
-                    show = form.dataset.jp;
-                    break;
-                case 2:
-                    show = form.dataset.eng;
-                    break;
-            }
-            break;
-        case 1:
-            show = form.dataset.jp;
-            break;
-        case 2:
-            show = form.dataset.eng;
-            break;
-        case 3:
-        switch (Number(document.getElementById("ReadLang").value) {
+        switch (boolShow[form.dataset.rfont]) {
             case 0:
-                show = form.dataset.jp + "&quot;" +  form.dataset.eng + "&quot;";
+                switch (Number(document.getElementById("ReadLang").value)) {
+                    case 0:
+                        show = form.dataset.jp;
+                        break;
+                    case 1:
+                        show = form.dataset.jp;
+                        break;
+                    case 2:
+                        show = form.dataset.eng;
+                        break;
+                }
                 break;
             case 1:
                 show = form.dataset.jp;
@@ -38,8 +27,24 @@ function ReadForm(form, Color){
             case 2:
                 show = form.dataset.eng;
                 break;
-        case 4:
-            show = form.dataset.jp + "&quot;" +  form.dataset.eng + "&quot;";
+            case 3:
+                switch (Number(document.getElementById("ReadLang").value)) {
+                    case 0:
+                        show = form.dataset.jp + "&quot;" +  form.dataset.eng + "&quot;";
+                        break;
+                    case 1:
+                        show = form.dataset.jp;
+                        break;
+                    case 2:
+                        show = form.dataset.eng;
+                        break;
+                }
+                break;
+            case 4:
+                show = form.dataset.jp + "&quot;" +  form.dataset.eng + "&quot;";
+                break;
+            default:
+                show = form.dataset.jp
         }
         output = "<font color = " + Color + ">" + show + "</font>";
 
@@ -47,7 +52,6 @@ function ReadForm(form, Color){
         switch (boolBold[form.dataset.rfont]) {
             case 0:
             	output = output;
-            	}
             break;
             case 1:
                 output = "<b>" + output + "</b>";
@@ -57,7 +61,6 @@ function ReadForm(form, Color){
                 break;
             case 4:
                 output = "<i><b>" + output + "</b></i>";
-            default:
         }
 
 return output;
