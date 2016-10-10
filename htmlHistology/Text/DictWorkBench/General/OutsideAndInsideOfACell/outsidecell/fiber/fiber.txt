@@ -1,0 +1,23 @@
+#線維,fiber,topic#は#構造タンパク質,structual protein,0#からなる細い糸状の#細胞外基質,extracellular matrix,0#である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:せんい
+他の日本語名:#繊維,fiber,otherjp#（意味上の違いはない）
+英語のカタカナ発音:ファイバー
+場所:#細胞,cell,0#外
+種類:以下の3種類が存在する。
+    ⑴#コラーゲン線維,collagen fiber,1#:#コラーゲン,collagen,0#（主に#I型コラーゲン,type I collagen,0#）からなる。
+    ⑵#細網線維,reticular fiber,1#:
+    ⑶#弾性線維,elastic fiber,1#:
+構成要素:それぞれの#線維,fiber,4#はそれぞれ異なる基礎単位が構成要素である。
+機能:以下の3機能を持つ。
+    ⑴#細胞,cell,4#の保持
+    ⑵#体液,body fluid,4#の移動のための空間
+    ⑶外力への抵抗
+
+
+<h2>#組織学,histology,0#</h2>
+<h3>#光学顕微鏡,light microscope,2#下の#線維,fiber,4#</h3>
+#線維,fiber,4#を観察するときに見える構造は以下の2つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
+    ⑴#コラーゲン,collagen,4#:#好酸性,basophilic,1#

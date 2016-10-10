@@ -8,24 +8,25 @@
 英語の略称:#ECM,extracellular matrix,abbeng#
 場所:#細胞,cell,4#外
 種類:以下の2種類が存在する。
-    ⑴#線維,fiber,1#:
-        これには更に以下の3種類が存在する。
+    ⑴#構造タンパク質,structual protein,1#:
+        これは更に以下の3種類を含む。これらは糸状であり、#線維,fiber,1#と呼ばれる。
         ⑴#コラーゲン線維,collage fiber,1#:
         ⑵#細網線維,reticular fiber,1#
         ⑶#弾性線維,elastic fiber,1#
+        その他、#基底膜,basal membrane,0#なども形成する。
     ⑵#基質,ground substance,1#:
         これは更に以下の構成要素を持つ。
         ⑴#グリコサミノグリカン,glycosaminoglycan,1#:
         ⑵#プロテオグリカン,proteoglycan,1#:
         ⑶#多接着性糖タンパク質,multiadhensive glycoprotein,1#:
 構成要素:それぞれの#細胞外基質,extracellular matrix,4#はそれぞれ異なる基礎単位が構成要素である。
-機能:以下の3機能を持つ。
+機能:以下の4機能を持つ。
     ⑴#細胞,cell,4#の保持
     ⑵#体液,body fluid,2#の保持
     ⑶#体液,body fluid,4#の移動のための空間
+    ⑷外力への抵抗
 
-
-<h2>#細胞生物学,cell biology,0#</h2>
+<h2>#組織学,histology,0#</h2>
 <h3>#光学顕微鏡,light microscope,2#下の#細胞外基質,extracellular matrix,4#</h3>
 #細胞外基質,extracellular matrix,4#を観察するときに見える構造は以下の2つである。これらは#好塩基性,basophilic,0#あるいは#好酸性,acidophilic,0#である。
     ⑴#グリコサミノグリカン,glycosaminoglycan,4#:#好塩基性,basophilic,1#

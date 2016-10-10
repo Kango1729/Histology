@@ -7,7 +7,7 @@
 英語語源:#英語「小さい」+ラテン語「管」,micro+tubus,origin#
 場所:#細胞質,cytoplasm,4#内
 大きさ:直径25nm
-構成要素:#重合体,polymer,0#であり、基本単位は以下の2構成要素からなる#ヘテロダイマー,heterodimer,0#である。
+構成要素:以下の2構成要素からなる#ヘテロダイマー,heterodimer,0#の#重合体,polymer,0#である。
     ⑴#αチューブリン,alpha tubulin,1#:
     ⑵#βチューブリン,beta tubulin,1#:
 機能:以下の5機能を持つ。
