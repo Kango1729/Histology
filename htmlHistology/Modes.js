@@ -6,7 +6,7 @@ function ReadMode(form){
     });
 }
 function ReadForm(form, Color){
-        var boolShow = {"0":3,"1":3,"2":3,"3":0,"4":0,"topic":4,"origin":4,"otherjp":1,"othereng":2}
+        var boolShow = {"0":3,"1":3,"2":3,"3":0,"4":0,"topic":4,"origin":4,"otherjp":1,"othereng":2,"abbeng":4}
         switch (boolShow[form.dataset.rfont]) {
             case 0:
                 switch (Number(document.getElementById("ReadLang").value)) {
@@ -48,7 +48,7 @@ function ReadForm(form, Color){
         }
         output = "<font color = " + Color + ">" + show + "</font>";
 
-        var boolBold = {"0":1,"1":1,"2":0,"3":0,"4":0,"topic":3,"origin":2,"otherjp":0,"othereng":0};
+        var boolBold = {"0":1,"1":1,"2":0,"3":0,"4":0,"topic":3,"origin":2,"otherjp":0,"othereng":0,"abbeng":0};
         switch (boolBold[form.dataset.rfont]) {
             case 0:
             	output = output;
@@ -69,7 +69,7 @@ return output;
 function QuestMode (form){
 
     [].forEach.call(document.getElementsByClassName(form), function(form){
-    	var boolHide = {"0":0,"1":1,"2":0,"3":1,"4":0,"topic":0,"origin":0,"otherjp":0,"othereng":0};
+    	var boolHide = {"0":0,"1":1,"2":0,"3":1,"4":0,"topic":0,"origin":0,"otherjp":0,"othereng":0,"abbeng":0};
     	if (boolHide[form.dataset.rfont] == 1){
         	form.innerHTML ="";
         	var text = document.createElement("input");
