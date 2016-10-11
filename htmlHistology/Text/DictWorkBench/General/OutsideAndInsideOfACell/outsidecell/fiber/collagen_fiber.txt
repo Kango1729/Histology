@@ -1,11 +1,15 @@
-#コラーゲン線維,collagen fiber,topic#は#コラーゲン,collagen,0#（主に#I型コラーゲン,type I collagen,0#）からなる#線維,fiber,0#である。
+#コラーゲン線維,collagen fiber,topic#は張力などの外力に抵抗する#線維,fiber,0#である。
 
 
 <h2>基本情報</h2>
 漢字の読み方:こらーげんせんい
 他の日本語名:#膠原繊維,collagen fiber,otherjp#
 英語のカタカナ発音:コラーゲン　ファイバー
-場所:#細胞,cell,0#外
+場所:すべての#結合組織,connective tissue,0#に存在するが、特に以下の4箇所に存在する。
+    ⑴#皮膚,skin,1#:
+    ⑵#腱,tendon,#:
+    ⑶#骨,bone,1#:
+    ⑷#象牙質,dentin,1#:
 大きさ:直径0.5μｍ~3μm $出典　EssentialCellBiology
 構成要素:以下の1構成要素を束ねたものである。
     ⑴#コラーゲン細線維,collagen fibril,1#:
