@@ -1,11 +1,14 @@
-#口腔,oral cavity,topic#は頭部にある#腔,cavity,0#である。
+#口腔粘膜,oral mucosa,topic#は#口腔,oral cavity,0#内の#粘膜,mucosa,0#である。
 
 
 <h2>基本情報</h2>
-漢字の読み方:こうくう（医学における慣用読み）・こうこう
-英語カタカナ発音:オーラル　キャヴィティー
-英語語源:#古フランス語「織られた」,tissu,origin#
-構成要素:以下の構成要素を持つ。
+漢字の読み方:こうくうねんまく（医学における慣用読み）・こうこうねんまく
+英語カタカナ発音:オーラル　ミューコーサ
+種類:以下の3種類が存在する。
+    ⑴#咀嚼粘膜,masticatory mucosa,1#
+    ⑵#被蓋粘膜,lining mucosa,1#
+    ⑶#特殊粘膜,specialized mucosa,1#
+構成要素:以下の3構成要素を持つ。
 機能:以下の機能を持つ。
 
 
@@ -19,7 +22,7 @@
 		⑵#粘膜固有層,lamina propria,1#
 	⑵#粘膜下組織,submucosa,1#:
 
-#口腔粘膜,oral mucosa,0#には以下の3種類がある。$出典 「人体組織学 消化器」p.1
+#口腔,oral cavity,4#の#粘膜,mucosa,0#は区別され、その分類は以下の3つである。$出典 「人体組織学 消化器」p.1
 		⑴#咀嚼粘膜,masticatory mucosa,1#:
 		⑵#被蓋粘膜,lining mucosa,1#:
 		⑶#特殊粘膜,specialized mucosa,1#
