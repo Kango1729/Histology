@@ -1,0 +1,20 @@
+#弾性線維,elastic fiber,topic#は伸縮性を持つ#線維,fiber,0#である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:だんせいせんい
+英語のカタカナ発音:エラスティック　ファイバー
+場所:以下の箇所で存在する。
+    ⑴
+大きさ:伸縮する
+構成要素:以下の2構成要素からなる。
+機能:以下の2機能を持つ。
+    ⑴#細胞,cell,0#外の構造の維持
+    ⑵外力に抵抗
+
+
+<h2>#組織学,histology,0#</h2>
+<h3>#光学顕微鏡,light microscope,2#下の#コラーゲン線維,collagen fiber,4#</h3>
+#コラーゲン線維,collagen fiber,4#は#好酸性,basophilic,1#である。
+#コラーゲン線維,collagen fiber,4#は様々な太さを持ち、波打った構造を示す。
+#偏光顕微鏡,polarizing microscopy,0#において、高い#複屈折性,birefringence,1#を示す。
