@@ -1,4 +1,4 @@
-#細網線維,reticular fiber,topic#は#コラーゲン,collagen,0#（主に#III型コラーゲン,type III collagen,0#）からなる#線維,fiber,0#である。
+#細網線維,reticular fiber,topic#は#細胞,cell,0#を支持する#線維,fiber,0#である。
 
 
 <h2>基本情報</h2>
@@ -18,7 +18,7 @@
         これは更に以下の1構成要素の#重合体,polymer,0#である。
         ⑴#コラーゲン分子,collagen molecule,1#:
 機能:以下の1機能を持つ。
-    ⑴#細胞,cell,0#の支持
+    ⑴#細胞,cell,4#の支持
 
 <h2>#組織学,histology,0#</h2>
 #HE染色,HE stain,0#では染まらない。
