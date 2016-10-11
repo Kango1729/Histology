@@ -11,4 +11,13 @@
     ⑴#コラーゲン細線維,collagen fibril,1#:
         これは更に以下の1構成要素の#重合体,polymer,0#である。
         ⑴#コラーゲン分子,collagen molecule,1#:
-機能:
+機能:以下の2機能を持つ。
+    ⑴#細胞,cell,0#外の構造の維持
+    ⑵外力に抵抗
+    
+
+<h2>#組織学,histology,0#</h2>
+<h3>#光学顕微鏡,light microscope,2#下の#コラーゲン線維,collagen fiber,4#</h3>
+#コラーゲン線維,collagen fiber,4#は#好酸性,basophilic,1#である。
+#コラーゲン線維,collagen fiber,4#は様々な太さを持ち、波打った構造を示す。
+#偏光顕微鏡,polarizing microscopy,0#において、高い#複屈折性,birefringence,1#を示す。
