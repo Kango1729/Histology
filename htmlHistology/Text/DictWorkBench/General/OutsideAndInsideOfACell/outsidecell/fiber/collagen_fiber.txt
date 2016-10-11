@@ -6,7 +6,7 @@
 他の日本語名:#膠原繊維,collagen fiber,otherjp#
 英語のカタカナ発音:コラーゲン　ファイバー
 場所:#細胞,cell,0#外
-大きさ:直径0.5μｍ~3μm
+大きさ:直径0.5μｍ~3μm $出典　EssentialCellBiology
 構成要素:以下の1構成要素を束ねたものである。
     ⑴#コラーゲン細線維,collagen fibril,1#:
         これは更に以下の1構成要素の#重合体,polymer,0#である。
@@ -14,7 +14,7 @@
 機能:以下の2機能を持つ。
     ⑴#細胞,cell,0#外の構造の維持
     ⑵外力に抵抗
-    
+
 
 <h2>#組織学,histology,0#</h2>
 <h3>#光学顕微鏡,light microscope,2#下の#コラーゲン線維,collagen fiber,4#</h3>
