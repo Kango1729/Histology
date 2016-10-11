@@ -5,10 +5,23 @@
 漢字の読み方:さいもうせんい
 英語のカタカナ発音:
 他の英語名:レティキュラー ファイバー
-場所:#細胞,cell,0#
-大きさ:
-種類:
-構成要素:
-機能:
+場所:以下の6箇所に存在する。
+    ⑴#網状層,reticular layer,1#
+    ⑵#脂肪細胞,adipocyte,1#の周囲
+    ⑶#平滑筋細胞,smooth muscle cell,1#の周囲:
+    ⑷#神経線維,nerve fiber,1#の周囲:
+    ⑸#小血管,small blood vessels,1#の周囲:
+    ⑹損傷部位:
+大きさ:直径？
+構成要素:以下の1構成要素を束ねたものである。
+    ⑴#コラーゲン細線維,collagen fibril,1#:　$独自研究
+        これは更に以下の1構成要素の#重合体,polymer,0#である。
+        ⑴#コラーゲン分子,collagen molecule,1#:
+機能:以下の1機能を持つ。
+    ⑴#細胞,cell,0#の支持
 
-<[分野]>
+<h2>#組織学,histology,0#</h2>
+#HE染色,HE stain,0#では染まらない。
+#細網線維,reticular fiber,0#がよく染まる物は以下の2#染色,stain,0#である。
+    ⑴#PAS染色,PAS stain,1#:
+    ⑵#鍍銀染色,silver impregnation,1#:
