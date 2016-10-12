@@ -1,0 +1,24 @@
+#上皮組織,epithelial tissue,topic#は身体の#内界,inner world,0#と#外界,outer world,0#を隔てる#組織,tissue,0#である。
+    #内界,inner world#は以下の3つを指す。
+        ⑴#循環系,circulatory system,0#を除く#結合組織,connective tissue,0#
+        ⑵#筋組織,muscle tissue,0#
+        ⑶#神経組織,nerve tissue,0#
+    #外界,outer world,4#は以下の3つを指す。
+        ⑴周囲の環境
+        ⑵#管腔,lumen,0#
+        ⑶#体腔,body cavity,0#
+        #外界,outer world,4#は時に陥入し、最終的に上記と連続性を失うこともあるが、これも#外界,outer world,4#と考える。
+
+
+<h2>基本情報</h2>
+漢字の読み方:じょうひそしき
+英語のカタカナ発音:エピセリアル　ティッシュー
+他の英語名:#epithelium,上皮,othereng#
+英語語源:#ギリシャ語「上＋乳頭」,epi+thele,origin#
+場所:
+大きさ:
+種類:
+構成要素:
+機能:
+
+<[分野]>
