@@ -1,12 +1,16 @@
-#円柱上皮,columnar epithelium,topic#は幅よりも高さが長い#上皮,epithelium,0#である。
+#単層円柱上皮,simple columnar epithelium,topic#は構成する細胞が#単層上皮,simple epithelium,0#かつ#円柱上皮,columnar epithelium,1#である#上皮,epithelium,0#である。
 
 
 <h2>基本情報</h2>
-漢字の読み方:えんちゅうじょうひ
-英語のカタカナ発音:コロムナー　エピセリウム
-種類:以下の2種類が存在する。
-    ⑴#単層円柱上皮,simple columnar epithelium,1#:
-    ⑵#重層円柱上皮,stratified columnar epithelium,1#:
+漢字の読み方:たんそうえんちゅうじょうひ
+英語のカタカナ発音:シンプル　コロムナー　エピセリウム
+場所:以下の6箇所に存在する。
+    ⑴#胃,stomach,1#の#粘膜上皮,mucosal epithelium,1#
+    ⑵#小腸,small intestine,1#の#粘膜上皮,mucosal epithelium,1#:
+    ⑶#結腸,colon,1#の#粘膜上皮,mucosal epithelium,1#:
+    ⑷#細気管支,bronchiole,1#の#呼吸上皮,respiratory epithelium,1#の一部:
+    ⑸#卵管,oviduct,1#の#粘膜上皮,mucosal epithelium,1#:
+    ⑹#子宮,uterus,1#の#粘膜上皮,mucosal epithelium,1#:
 構造:以下の2構成要素を持つ。
     ⑴#上皮細胞,epithelial cell,1#:
     ⑵#基底膜,basal membrane,1#:

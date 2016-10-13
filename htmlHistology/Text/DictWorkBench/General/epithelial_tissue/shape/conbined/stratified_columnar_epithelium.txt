@@ -1,12 +1,11 @@
-#円柱上皮,columnar epithelium,topic#は幅よりも高さが長い#上皮,epithelium,0#である。
+#重層円柱上皮,stratified columnar epithelium,topic#は構成する細胞が#重層上皮,stratified epithelium,0#かつ表層が#円柱上皮,columnar epithelium,1#である#上皮,epithelium,0#である。
 
 
 <h2>基本情報</h2>
-漢字の読み方:えんちゅうじょうひ
-英語のカタカナ発音:コロムナー　エピセリウム
-種類:以下の2種類が存在する。
-    ⑴#単層円柱上皮,simple columnar epithelium,1#:
-    ⑵#重層円柱上皮,stratified columnar epithelium,1#:
+漢字の読み方:じゅうそうえんちゅうじょうひ
+英語のカタカナ発音:ストラテファイド　コロムナー　エピセリウム
+場所:以下の1箇所に存在する。
+    ⑴#結膜,conjunctiva,1#:
 構造:以下の2構成要素を持つ。
     ⑴#上皮細胞,epithelial cell,1#:
     ⑵#基底膜,basal membrane,1#:
@@ -21,11 +20,9 @@
             ⑴#頂部,apical pole,1#:
             ⑵#基底部,basal pole,1#:
             ⑶#側壁面,lateral surface,1#
-        ⑷#頂部,apical pole,3#の#突起,projection,0#:以下の3種類が存在する。
+        ⑷表層の#頂部,apical pole,3#の#突起,projection,0#:以下の3種類が存在する。
             ⑴#微絨毛,microvillus,1#:
             ⑵#不動毛,stereocilium,1#:
             ⑶#繊毛,cilium,1#:
-機能:以下の3機能を持つ。
+機能:以下の1機能を持つ。
     ⑴#被覆,covering,1#
-    ⑵#吸収,absorption,1#
-    ⑶#分泌,excretion,1#

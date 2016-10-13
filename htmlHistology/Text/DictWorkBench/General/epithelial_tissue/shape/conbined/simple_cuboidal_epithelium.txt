@@ -1,13 +1,22 @@
-#立方上皮,cuboidal epithelium,topic#は幅と高さの長さが等しい#上皮,epithelium,0#である。
+#単層立方上皮,simple cuboidal epithelium,topic#は構成する細胞が#単層上皮,simple epithelium,0#かつ#立方上皮,cuboidal epithelium,1#である#上皮,epithelium,0#である。
 
 
 <h2>基本情報</h2>
-漢字の読み方:りっぽうじょうひ
-英語のカタカナ発音:キューボイダル　エピセリウム
-種類:以下の2種類が存在する。
-    ⑴#単層立方上皮,simple cuboidal epithelium,1#:
-    ⑵#重層立方上皮,stratified cuboidal epithelium,1#:
-構造:以下の2構成要素を持つ。
+漢字の読み方:たんそうりっぽうじょうひ
+英語のカタカナ発音:シンプル　キューボイダル　エピセリウム
+場所:以下の9箇所に存在する。
+    #尿細管,kidney tubule,1#:
+    #ヘンレンループ,loop of Henle,1#の#太い上行脚,thick ascending limb,1#:
+    ⑴#集合管,collecting duct,1#:
+    ⑵#甲状腺濾胞,thyroid follicle,1#:
+    ⑶#細気管支,bronchiole,1#:
+    ⑷#終末細気管支,terminal bronchiole,1#:
+    ⑸#呼吸細気管支,respiratory bronchiole,1#
+    ⑹#肺胞,alveolus,1#
+    ⑺#膵臓,pancreas,1#の#介在部導管,intercalated duct,1#:
+    ⑻#唾液腺,salivary gland,1#の#介在部導管,intercalated duct,1#:
+    ⑼#卵巣,ovary,1#:
+    構造:以下の2構成要素を持つ。
     ⑴#上皮細胞,epithelial cell,1#:
     ⑵#基底膜,basal membrane,1#:
     これら為す構造は以下の点の特徴を持つ。
@@ -27,4 +36,4 @@
             ⑶#繊毛,cilium,1#:
 機能:以下の3機能を持つ。
     ⑴#被覆,covering,1#
-    ⑵#分泌,excretion,1#
+    ⑶#分泌,excretion,1#
