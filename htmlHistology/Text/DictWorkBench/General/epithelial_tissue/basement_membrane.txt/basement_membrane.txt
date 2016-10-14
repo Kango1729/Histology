@@ -1,0 +1,11 @@
+#基底膜,basement membrane,topic#は#上皮組織,epithelial tissue,0#を#結合組織,connective tissue,0#から隔てる、#上皮組織,epithelial tissue,4#の膜状の#細胞外基質,0#である。
+
+<h2>基本情報</h2>
+漢字の読み方:きていまく
+英語のカタカナ発音:ベイスメント メンブレイン
+場所:#上皮組織,epithelial tissue,0#と#結合組織,connective tissue,0#の間
+構造:以下の2構成要素からなる。
+    ⑴#基底板,
+機能:
+
+<[分野]>
