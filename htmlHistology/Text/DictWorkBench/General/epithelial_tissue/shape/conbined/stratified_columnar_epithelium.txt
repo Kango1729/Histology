@@ -1,0 +1,28 @@
+#重層円柱上皮,stratified columnar epithelium,topic#は構成する細胞が#重層上皮,stratified epithelium,0#かつ表層が#円柱上皮,columnar epithelium,1#である#上皮,epithelium,0#である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:じゅうそうえんちゅうじょうひ
+英語のカタカナ発音:ストラテファイド　コロムナー　エピセリウム
+場所:以下の1箇所に存在する。
+    ⑴#結膜,conjunctiva,1#:
+構造:以下の2構成要素を持つ。
+    ⑴#上皮細胞,epithelial cell,1#:
+    ⑵#基底膜,basal membrane,1#:
+    これら為す構造は以下の点の特徴を持つ。
+        ⑴浅部から順に、以下のように並ぶ。
+             ⑴（#外界,outer world,4#）
+             ⑵#上皮細胞,epithelial cell,3#
+             ⑶#基底膜,basal membrane,3#
+             ⑷（#結合組織,connective tissue,4#）
+        ⑵#上皮細胞,epithelial cell,4#同士が密接し、#細胞間結合,intercellular junction,1#を持つ。
+        ⑶#上皮細胞,epithelial cell,4#は#極性,polarity,0#を持ち、何に面するかに応じた以下の3部位を持つ。
+            ⑴#頂部,apical pole,1#:
+            ⑵#基底部,basal pole,1#:
+            ⑶#側壁面,lateral surface,1#
+        ⑷表層の#頂部,apical pole,3#の#突起,projection,0#:以下の3種類が存在する。
+            ⑴#微絨毛,microvillus,1#:
+            ⑵#不動毛,stereocilium,1#:
+            ⑶#繊毛,cilium,1#:
+機能:以下の1機能を持つ。
+    ⑴#被覆,covering,1#
