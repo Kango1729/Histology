@@ -4,7 +4,7 @@
 漢字の読み方:きていまく
 英語のカタカナ発音:ベイスメント メンブレイン
 場所:#上皮組織,epithelial tissue,0#と#結合組織,connective tissue,0#の間
-構造:以下の2構成要素からなる。
+構造:以下の2構成要素を持つ。
     ⑴#基底板,basal lamina,1#:
         これは更に以下の3構成要素を持つ。
             ⑴#コラーゲン,collagen,1#:
@@ -45,4 +45,3 @@
     ⑵#上皮細胞,epithelial cell,3#の極性を生む。
     ⑶#結合組織,connective tissue,3#と#上皮組織,epithelial tissue,4#の間の選択的な隔壁になる。
     ⑷#上皮組織,epithelial tissue,3#修復の足場となる。
-    

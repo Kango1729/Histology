@@ -1,0 +1,14 @@
+#多列上皮,pseudostratified epithelium,topic#は高さの異なる#細胞,cell,0#からなる#単層上皮,simple epithelium,0#である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:たれつじょうひ
+他の日本語名:#偽重層上皮,pseudostratified epithelium,otherjp#
+英語のカタカナ発音:スードウストラテファイド　エピセリウム
+英語語源:#英語「偽の」+英語「重層」+英語「上皮」,pseudo+stratified+epithelium,origin#
+場所:以下の箇所に存在する。
+    #気管,trachea,1#
+    #気管支,bronchus,1#
+    #耳管,Eustachian tube,1#
+構成要素:
+機能:
