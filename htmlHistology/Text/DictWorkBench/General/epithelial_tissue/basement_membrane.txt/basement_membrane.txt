@@ -1,11 +1,48 @@
-#基底膜,basement membrane,topic#は#上皮組織,epithelial tissue,0#を#結合組織,connective tissue,0#から隔てる、#上皮組織,epithelial tissue,4#の膜状の#細胞外基質,0#である。
+#基底膜,basement membrane,topic#は#上皮組織,epithelial tissue,0#を#結合組織,connective tissue,0#から隔てる、#上皮組織,epithelial tissue,4#と#結合組織,connective tissue,0#の膜状の#細胞外基質,0#である。
 
 <h2>基本情報</h2>
 漢字の読み方:きていまく
 英語のカタカナ発音:ベイスメント メンブレイン
 場所:#上皮組織,epithelial tissue,0#と#結合組織,connective tissue,0#の間
 構造:以下の2構成要素からなる。
-    ⑴#基底板,
-機能:
-
-<[分野]>
+    ⑴#基底板,basal lamina,1#:
+        これは更に以下の3構成要素を持つ。
+            ⑴#コラーゲン,collagen,1#:
+                これは更に以下の3構成要素を持つ。
+                    ⑴#IV型コラーゲン,type IV collagen,1#
+                    ⑵#XV型コラーゲン,type XV型コラーゲン,1#
+                    ⑶#XVII型コラーゲン,type XVII型コラーゲン,1#
+            ⑵#糖タンパク質,glyciprotein,1#:
+                これは更に以下の3種類がある。
+                    ⑴#ラミニン,laminin,1#:
+                    ⑵#エンタクチン,entactin,1#:
+                    ⑶#ナイドジェン,nidogen,1#:
+            ⑶#プロテオグリカン,proteoglycan,1#:
+                これは更に以下の1種類がある。
+                    ⑴#パールカン,parlecan,1#:
+            これらの為す構造は以下の点の特徴を持つ。
+                ⑴#ラミニン,laminin,1#が#上皮細胞,epithelial cell,4#の#基底部,basal domain,0#の#膜タンパク質,membrane protein,0#の#インテグリン,integrin,1#と結びつき、膜構造を作る。
+                ⑵#IV型コラーゲン,type IV collagen,1#が膜構造を作る。
+                ⑶#エンタクチン,entactin,3#や#ナイドジェン,nidogen,3#、#パールカン,parlecan,3#が#ラミニン,laminin,3#の膜構造と#IV型コラーゲン,type IV collagen,3#の膜構造を結びつける。
+    ⑵#網状板,reticular lamina,1#:
+        これは更に以下の1構成要素を持つ。
+            ⑴#III型コラーゲン,type III collagen,1#:
+        これの為す構造は以下の1点の特徴を持つ。
+            ⑴#III型コラーゲン,type III collagen,3#は 膜構造を作る。
+    ⑶係留のための構造:
+        以下の2種類が存在する。
+            ⑴#VII型コラーゲン,type VII collagen,1#
+            ⑵#フィブリリンミクロフィブリル,fibrillin microfibril,1#:
+    これらの為す構造は以下の点の特徴を持つ。
+        ⑴浅部から順に以下のように並ぶ。
+            ⑴（#上皮細胞,epithelial cell,1#）
+            ⑵#基底板,basal lamina,1#
+            ⑶#網状板,reticular lamina,1#
+            ⑷（#結合組織,connective tissue,1#）$網状板も結合組織
+        ⑵#基底板,basal lamina,3#と#網状板,reticular lamina,3#の間を#VII型コラーゲン,type VII collagen,1#が結びつける。
+機能:以下の4機能を持つ。
+    ⑴#上皮細胞,epithelial cell,3#を支える。
+    ⑵#上皮細胞,epithelial cell,3#の極性を生む。
+    ⑶#結合組織,connective tissue,3#と#上皮組織,epithelial tissue,4#の間の選択的な隔壁になる。
+    ⑷#上皮組織,epithelial tissue,3#修復の足場となる。
+    
