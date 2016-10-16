@@ -1,0 +1,15 @@
+#タイト結合,tight junction,topic#は隣接する#細胞,cell,0#との隙間を閉じる#細胞間結合,intercellular junciton,0#である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:たいとけつごう
+他の日本語名:#閉鎖結合,tight junction,otherjp#・#密着帯,zonula occludens,otherjp#・#閉鎖帯,zonula occludens,otherjp#・#タイトジャンクション,tight junction,otherjp#
+英語のカタカナ発音:タイト　ジャンクション
+他の英語名:#密着帯,zonula occludens,othereng#
+場所:隣接する#細胞,cell,4#との間の#細胞,cell,4#の#頂部,apical pole,0#（#細胞間結合,intercellular junction,4#の中で一番#頂部,apical pole,4#にある）
+構成要素:以下の構成要素を持つ。
+    ⑴#オクルーディン,occludin,1#:
+    ⑵#クローディン,claudin,1#:
+機能:以下の2機能を持つ。
+    ⑴#傍細胞経路,paracellular pathway,1#をふさぐ。
+    ⑵#細胞膜,plasma membrane,0#において、#頂部,apical pole,0#と#側壁面,lateral surface,0#・#基底部,basal pole,0#を分ける。
