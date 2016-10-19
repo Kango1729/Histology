@@ -1,0 +1,48 @@
+#結合組織,connective tissue,topic#は他の#組織,tissue,0#を支持、維持する#組織,tissue,4#である。
+
+
+<h2>基本情報</h2>
+漢字の読み方:けつごうそしき
+他の日本語名:#支持組織,supporting tissue,otherjp#
+英語のカタカナ発音:コネクティブ　ティッシュー
+他の英語名:#支持組織,supporting tissue,othereng#
+場所:他の#組織,tissue,4#の間
+種類:以下の3種類が存在する。
+    ⑴#固有結合組織,connective tissue proper,1#:
+        これには更に以下の2種類が存在する。
+            ⑴#密性結合組織,dense connective tissue,1#:
+                これには更に以下の2種類が存在する。
+                    ⑴#密性規則性結合組織,regular dense connective tissue,1#
+                    ⑵#密性不規則性結合組織,irregular dense connective tissue,1#
+            ⑵#疎性結合組織,loose connective tissue,1#:
+    ⑵#胚性結合組織,embryonic cinnective tissue,1#:
+        これには更に以下の2種類が存在する。
+            ⑴#間充織,mesenchyme,1#:
+            ⑵#粘液組織,mucoid tissue,1#:
+    ⑶#特殊結合組織,specialized connective tissue,1#:
+        これには更に以下の6種類が存在する。
+            ⑴#軟骨,cartilage,1#:
+            ⑵#骨,bone,1#:
+            ⑶#脂肪組織,adipose tissue,1#:
+            ⑷#血液,blood,1#:
+            ⑸#造血組織,hemopoietic,tissue,1#:
+            ⑹#リンパ組織,lymphatic tissue,1#:
+構成要素:以下の3構成要素からなる。
+    ⑴#細胞,cell,0#:
+        これには以下の9種類が存在する。
+            ⑴#線維芽細胞,fibrocyte,1#:
+            ⑵#脂肪細胞,adipocyte,1#:
+            ⑶#マクロファージ,macrophage,1#:
+            ⑷#肥満細胞,mast cell,1#:
+            ⑸#形質細胞,plasma cell,1#:
+            ⑹#樹状細胞,dendritic,1#:
+            ⑺#リンパ球,lymphocyte,1#:
+            ⑻#好酸球,eosinphil leukocyte,1#:
+            ⑼#色素細胞,chromatophore,1#:
+    ⑵#細胞外基質,extracellular matrix,1#:
+    ⑶#体液,body fluid,2#:
+    これらの為す構造は以下の点の特徴を持つ。
+        ⑴#細胞外基質,extracellular matrix,1#が主な構成要素である。
+機能:以下の機能を持つ。
+    ⑴他の#組織,tissue,4#を支持する:
+    ⑵他の#組織,tissue,4#を維持する:

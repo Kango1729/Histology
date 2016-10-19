@@ -7,8 +7,12 @@
 英語のカタカナ発音:スードウストラテファイド　エピセリウム
 英語語源:#英語「偽の」+英語「重層」+英語「上皮」,pseudo+stratified+epithelium,origin#
 場所:以下の箇所に存在する。
-    #気管,trachea,1#
-    #気管支,bronchus,1#
-    #耳管,Eustachian tube,1#
-構成要素:
+    #気管,trachea,1#:
+    #気管支,bronchus,1#:
+    #耳管,Eustachian tube,1#:
+構造:以下の2構成要素からなる。
+    ⑴#上皮細胞,epithelial cell,1#:
+    ⑵#基底細胞,basal cell,1#:
 機能:
+    ⑴#被覆,covering,1#
+    ⑵#分泌,excretion,1#

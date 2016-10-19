@@ -40,9 +40,10 @@
         ⑴#表皮,epidermis,1#:
         ⑵#粘膜上皮,mucosal epithelium,1#:
         ⑶#中皮,mesothelium,1#
-構造:以下の2構成要素を持つ。
+構造:以下の主な2構成要素を含む。
     ⑴#上皮細胞,epithelial cell,1#:
     ⑵#基底膜,basal membrane,1#:
+    その他、#細胞外基質,extracellular matrix,2#や#体液,body fluid#が存在する。
     これら為す構造は以下の点の特徴を持つ。
         ⑴浅部から順に、以下のように並ぶ。
              ⑴（#外界,outer world,4#）
