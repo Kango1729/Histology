@@ -1,1 +1,42 @@
-#今,now,1#
+#に変化を生む,make a difference to,1#
+#する頃に遅れがある,delays in,1#
+
+#72%は患者が予約を取るのに遅れが出ていると言った,72% said there were delays in patients getting appointments,1#
+#それが最も重要なサービスに変化を生むのか不明確である,it's unclear whether it's making a difference to fromtline services,1#
+
+-----
+#AがBに対してアンビバレントな感情を抱いている,A be ambivalent towards B,1#
+
+#鍵を握り、核となる,be the key and the core,1#
+
+
+#Turkey seems ambivalent towards Sunni movements,トルコはスンニ派の運動に対してアンビバレントな感情を持っているようである,1#
+#ロシアこそが鍵を握り、核となるのだ,it is Russia that is the key and the core,1#
+
+-----
+
+#研究と発展の最中である,be under research and development,1#
+#打ち上げ,launch,1#
+
+
+#システムは研究と発展の最中であると考えられている,systems are understood to be under research and development,1#
+#全3回の打ち上げは失敗に終わった,all three launches ended in failure,1#
+
+-----
+
+#Aの目標は,A's goal is to,1#
+#の同等である,be the equivalent to,1#
+
+#ランカスターの目標は人間の皮膚を機能する脳細胞を作る事である,Lancaster's goal is to turn human skin into functioning brain cells,1#
+#これらは脳と同等のものである,they are the equivalent to the brain,1#
+
+-----
+
+#多大な努力を必要とする,take a great deal of effort,1#
+#する能力がある,have an ability to,1#
+
+#水を手に入れるのは多大な努力と創意を必要とする事もある,sourcing water can take a great deal of effort and ingenuity,1#
+#象は地下水を探知する驚くべき能力を持つ,elephants have an amazing ability to detect underground water,1#
+
+-----
+I found the article on South Korea intersting. As well as the fact that BBC payes deep attention to a fareast, the actual facts described made shiver.
