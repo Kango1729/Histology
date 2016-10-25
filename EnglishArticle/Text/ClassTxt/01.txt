@@ -2,7 +2,7 @@
 #する頃に遅れがある,delays in,1#
 
 #72%は患者が予約を取るのに遅れが出ていると言った,72% said there were delays in patients getting appointments,1#
-#それが最も重要なサービスに変化を生むのか不明確である,it is unclear whether it's making a difference to fromtline services,1#
+#それが最も重要なサービスに変化を生むのか不明確である,it is unclear whether it is making a difference to fromtline services,1#
 
 -----
 #AがBに対してアンビバレントな感情を抱いている,A be ambivalent towards B,1#
