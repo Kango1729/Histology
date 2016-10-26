@@ -2,7 +2,7 @@
 #する頃に遅れがある,delays in,1#
 
 #72%は患者が予約を取るのに遅れが出ていると言った,72% said there were delays in patients getting appointments,1#
-#それが最も重要なサービスに変化を生むのか不明確である,it is unclear whether it is making a difference to fromtline services,1#
+#それが最も重要なサービスに変化を生むのか不明確である,it&quot;s unclear whether it&quot;s making a difference to fromtline services,1#
 
 -----
 #AがBに対してアンビバレントな感情を抱いている,A be ambivalent towards B,1#
@@ -24,10 +24,10 @@
 
 -----
 
-#Aの目標は,A's goal is to,1#
+#Aの目標は,A&quot;s goal is to,1#
 #の同等である,be the equivalent to,1#
 
-#ランカスターの目標は人間の皮膚を機能する脳細胞を作る事である,Lancaster's goal is to turn human skin into functioning brain cells,1#
+#ランカスターの目標は人間の皮膚を機能する脳細胞を作る事である,Lancaster&quot;s goal is to turn human skin into functioning brain cells,1#
 #これらは脳と同等のものである,they are the equivalent to the brain,1#
 
 -----
