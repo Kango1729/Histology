@@ -1,0 +1,43 @@
+#Aがsthな道を進む,A go a sth way,1#
+#しないほうが良いと思う,find it better not to,1#
+
+
+#ロウは劇的に異なる道を進んだ,Lowe went a dramatically different way,1#
+#多くのミュージシャンは黙らないほうが良いと思った,many musicians find it better not to shut up,1#
+
+-----
+
+#影響を持つ,have an impact on,1#
+#呼びかける,call for,1#
+#として扱われる,be treated as,1#
+
+#汚点は他の人に影響がある,the stigma has an impact on other people,1#
+#新しい報告は習慣を家庭内暴力として扱う事を呼びかけている,the new report called for the practice to be treated as domestic violence,1#
+
+-----
+
+#なんとかする,manage to,1#
+#に取って代わられる,be replaced by,1#
+
+#女性はなんとかして収入を増やした,woman have managed to increace the income,1#
+#彼らはCEOや企業家に取って代わられた,they have been replaced by CEOs and entrepreneurs,1#
+
+-----
+
+#変わらないままである,remains unchanged,1#
+#に遡る,date back,1#
+
+#その過程は比較的変わらないままだ,the process remains relatively unchanges,1#
+#500年以上前の明王朝に遡る,dates back more than 500 years to the Ming Dynasty,1#
+
+-----
+
+#決まり悪そうに,ill at ease,1#
+#焦点を当てる,feature,1#
+
+#he looks ill at ease,彼は決まり悪そうに見えた,1#
+#一コマは他の日本の輸出物に焦点を当てる,segment features other Japanese exports,1#
+
+-----
+
+I was struck by the "Disposal Women" article because in this article, people exploited the system that is rather familiar to me.
