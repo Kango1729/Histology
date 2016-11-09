@@ -1,0 +1,34 @@
+#に負いすぎる,be overburdened with,1#
+#の一部は,part of the,1#
+
+#彼らは仕事を持ちすぎている,they are overburdened with works,1#
+#答えの一部は単純な経済学だ,part of the answer is simple economics,1#
+-----
+#に役割を持つ,play a role in,1#
+#Aを刺激して作用させる,stimulate A into action,1#
+
+#個々の性格は彼らがどれだけ良く病や感染症と戦うかという点で重要な役割を持つ,an indivisual's personality may play a crucial role in how well they can combat disease and infection,1#
+#ワクチンは免疫システムを刺激して作用させる,the vaccination stimulates the immune system into action,1#
+
+-----
+
+#を考えると,given,1#
+
+#プロキシマケンタウリの近さを考えると,given it's closeness to Proxima Centauri,1#
+
+-----
+
+#集大成,culmination,1#
+#主要な理由の１つは,one of the main reasons,1#
+
+#このプロジェクトは5年に渡る政治的、外交的交渉の集大成を示す,the project represents the culmination of five years of political and diplomatic negotiation,1#
+#私たちがパンダを愛する主要な理由の１つは,one of the main reasons we love pandas is,1#
+
+-----
+
+#に影響を持つ,have effect on,1#
+
+#異なる飲料が覚醒度にどんな影響を持つのか,what effect different drinks had on their wakefulness,1#
+-----
+
+The 'we are actually not busy' article was intersting because I myself find myself both busy and bad at managing todo lists.
