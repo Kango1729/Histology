@@ -1,0 +1,31 @@
+#コストを下げる,bring the cost down,1#
+#喜んで認める,happy to admit,1#
+
+#それはコストを下げる事を助ける,that will help bring the cost down,1#
+#彼はリスクがある事を喜んで認めた,he was happy to admit that risks are involved,1#
+
+-----
+
+#に言及する,refer to,1#
+#になっていく,make way to,1#
+
+#コカはコカリーフを指す,the 'coca' refers to the coca leaf,1#
+#多く強壮剤になっていった,many made their way to tonic medecine,1#
+
+-----
+
+#特定された物と比較する,compare to sth identified,1#
+#で治療される,be treated  for,1#
+
+#サンプルと特定された分子を比較する,compare samples to molecules identified,1#
+#彼女はうつ病で治療されている,she is treated for depression,1#
+
+-----
+
+#しがちである,more likely to,1#
+#を付加する,attach to,1#
+#むしろ,as oppose to,1#
+
+#消費者は小売業者が欲しいように動きがちである,consumers are likely to do what the retailer wants,1#
+#買い物客は損失により重きをおく,shoppers attach greater significance to loss,1#
+#消費者は実際の価格よりもむしろ割引額に焦点がある,cosumers focus on the discount as opposed to the actual price,1#

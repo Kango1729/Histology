@@ -1,0 +1,27 @@
+#同等のもの,counter part,1#
+#真実である,hold true,1#
+
+#小さい犬症候群は人間における同等のものとして、ナポレオンコンプレックスを持つ,small dog symdrome has a human counterpart in the Napoleon complex,1#
+#それは人間にとって真実である,that hold true for humans,1#
+
+-----
+#に負う,owe to,1#
+#パターンに当てはまる,fit into pattern,1#
+
+#私たちはエンジニアに多くを負う,we owe a lot to the engineer,1#
+#その攻撃は、高度に狙いを定めた攻撃のパターンに当てはまる,the attack fits into the pattern of highly-targeted attacks,1#
+
+-----
+#として知られている,this is known as,1#
+#あまり大変でない,do not take much,1#
+
+#これは「止まった時計の錯覚」として知られている,this is known as 'stopped-clock illusion,1#
+#これは私たちにとってあまり大変でない,this does not take much for us,1#
+
+-----
+#温かい歓迎,a warm reception,1#
+
+#その考えは公から温かい歓迎を受けなかった,the idea did not get a warm reception from the public,1#
+-----
+#sthになるにはあまりにsth,be too sth to be sth,1#
+#シミュレーションであるには全てがあまりに現実的だ,it all feels too real to be a simulation,1#
