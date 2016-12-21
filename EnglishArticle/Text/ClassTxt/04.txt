@@ -2,7 +2,7 @@
 #視点はAに基づく,the view is based on A,1#
 #を強める,add to,1#
 
-#他のどんな動物が意識を持つのか論議を呼ぶ問題なままである,which other creatures have conscious ness remains an open and controversial question,1#
+#他のどんな動物が意識を持つのか論議を呼ぶ問題なままである,which other creatures have consciousness remains an open and controversial question,1#
 #この視点は以前の研究に基づいている,the view is based on previous studies,1#
 #これは複雑な動物としての魚のイメージ像を強める,it adds to the emerging picture of fish as complex animals,1#
 
@@ -14,7 +14,7 @@
 
 #ソニーは自らの約束に張り付いている,Sony is sticking to its promise,1#
 #それは完全な戦略の違いである,it's a stark difference in strategy,1#
-#これは観客を、VR体験に多くのものを費やしたい人間に限定する,#that may limit the audience to people who want to spend a huge amount on VR experiences,1#
+#これは観客を、VR体験に多くのものを費やしたい人間に限定するかも知れない,that may limit the audience to people who want to spend a huge amount on VR experiences,1#
 
 -----
 

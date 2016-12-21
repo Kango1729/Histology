@@ -1,0 +1,21 @@
+#焦点を移す,shift focus,1#
+#警戒して,with alarm,1#
+
+#彼は量から質へ焦点を移した,he shifted focus from quantity to quality,1#
+#父親は娘の行動を警戒して見ていた,the father watched his daughter's action with alarm,1#
+-----
+#特に批判的,particulary critical,1#
+#勢いを得る,gather momentum,1#
+
+#彼らは特に4次元ポケットに批判的である,they are especially critical of 4D pockets,1#
+#運動は夏に勢いを得た,the campaign gathered momentum this summer,1#
+-----
+#さえすればいい,all A have to do is,1#
+
+#私たちは比べさえすればいい,all we have to do is compare,1#
+-----
+#傾倒している,be committed to,1#
+#という事実を指摘する,point to the fact that,1#
+
+#活動家はコンセプトに傾倒している,campaigners are committed to the fact,1#
+#支持者は仕事が自動化されたという事実を指摘している,supporters point to the fact that works were automated,1#

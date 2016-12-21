@@ -1,0 +1,38 @@
+#安堵に変わる,set in relief,1#
+
+#巨大な責任は深い安堵に変わった,the enormous responsibility was set in stark relief,1#
+
+-----
+
+#影響がある,have and impact on,1#
+#問題は〜か否か,the question is whether,1#
+
+#それはCO2排出に影響がある,it has an impact on CO2 emission,1#
+#その反応がコストを下げる助けになるか否かが問題である,the question is whether the reaction help to drop the cost,1#
+
+-----
+
+#潜在能力を持つ,have a potential,1#
+#相互作用する,interact with,1#
+
+#それは大きな潜在能力を持つ,it has a great potential,1#
+#人々がコードと相互作用することを可能にする,allow people to interact with the code,1#
+
+-----
+
+#影響を受けやすい,be susceptible,1#
+#を警告する,warn of,1#
+
+#哺乳類は音による汚染を受けやすい,mammals are susceptable to sound pollution,1#
+#タラは緊急の危険を集団に警告する,cod warn their group of an immediate threat,1#
+
+-----
+#影響する,affect,1#
+
+#乗客に影響するか?,does it affect passengers?,1#
+
+-----
+#行動をとる,take action,1#
+学校は行動をとった,the school took action,1#
+-----
+The Friday taxi had an impact because it is a kind of problem that I may cause in the future. I must bear in mind not to puke in taxis.
