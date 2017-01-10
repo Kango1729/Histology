@@ -1,0 +1,27 @@
+#深刻な必要性,serious need,1#
+
+#技術革新の深刻な必要性がある,there is a serious need for technology inprovements,1#
+-----
+#納得できる,make sense,1#
+
+#多くの物がそこにあるのは納得できる,it make sense that many things are there,1#
+-----
+#安全基準内,within safety guideline,1#
+
+#放射量は安全基準内である,radiaton amount is within safety guideline,1#
+-----
+#確固たる証拠,firm evidence,1#
+
+#健康リスクがあることを証明する確固たる証拠はない,there is no firm evidence to prove there was a health risk,1#
+-----
+#〜せずにいられない,cannot help,1#
+
+#背中を引っ搔かずにいられない,I cannot help scratching my back,1#
+-----
+#道筋を指し示す,point the way to,1#
+
+#その発見は新しい方法への道筋を指し示す,the discovery points the way to a new method,1#
+-----
+#占める,accounts for,1#
+
+#これは全体生産量の95%を占める,it accounts for 95% of the total production,1#
