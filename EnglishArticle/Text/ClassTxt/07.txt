@@ -33,6 +33,7 @@
 
 -----
 #行動をとる,take action,1#
-学校は行動をとった,the school took action,1#
+
+#学校は行動をとった,the school took action,1#
 -----
 The Friday taxi had an impact because it is a kind of problem that I may cause in the future. I must bear in mind not to puke in taxis.
