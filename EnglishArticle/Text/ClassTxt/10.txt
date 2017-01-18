@@ -1,0 +1,16 @@
+#～ということを示す証拠は他にもある,there is other supporting evidence that said,1#
+#昼寝が有益であるということを示す証拠は他にもあった。,There was other supporting evidence that said naps were beneficial.,1#
+
+#それを見るのはとても面白いだけでなく、少し怖くもあった。,It was very fun to see, but also a bit scary.,1#
+
+#～がーするのは珍しいことではない。(よくあることである。),It's not uncommon for ～ to ー,1#
+#飛行機が雷にうたれるのは珍しいことじゃない。,It's not uncommon for aircraft to be struck by lightning.,1#
+
+#～を手伝う,help with ～,1#
+#この宿題を手伝ってくれない？,Can you help with this homework?,1#
+
+#～に意味がある,there is any point to ～,1#
+#その全てに意味があるのだろうか？,Is there any point to it all?,1#
+
+#～と関連している,be associated with ～,1#
+#カフェインはがんの危険性を減らすことと関係しているかもしれない。,Caffeine could be associated with a reduced risk of cancer.,1#
